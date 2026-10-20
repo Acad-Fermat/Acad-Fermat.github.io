@@ -9,7 +9,9 @@
 - No se encontraron afiches identificados de 2023/2024 en sus carpetas originales. La interfaz muestra el estado pendiente sin fabricar imágenes o documentos. Los exámenes de convocatorias futuras se mantienen fuera del catálogo público.
 - Revisión de nueve vistas/rutas en 390, 768 y 1440 px: sin desbordamiento horizontal ni imágenes cargadas rotas. Sin errores de consola detectados. Probadas las fichas de resultados de Ayacucho 2024 y Pichari 2023, y los filtros de modelos de inicial 3 años: un PDF de Matemática y uno de Comunicación.
 - `node scripts/validate.mjs` comprueba sincronización, identificadores únicos, 28 modelos sin repeticiones, cobertura de cursos/grados, fechas y existencia/tamaño de los 243 recursos únicos. Los 251 recursos y archivos de interfaz comprobados por HTTP respondieron 200.
-- La publicación principal se prepara para GitHub Pages en Acad-Fermat/Acad-Fermat.github.io. La identidad antigua de Sites se conserva localmente; ese proyecto no está disponible en la cuenta conectada.
+- Publicación principal completada y verificada en https://acad-fermat.github.io/. Las fuentes están en `main` y la versión pública en `gh-pages`, dentro de Acad-Fermat/Acad-Fermat.github.io. La identidad antigua de Sites se conserva localmente; ese proyecto no está disponible en la cuenta conectada.
+- En la dirección pública principal se comprobó HTTP 200, catálogo idéntico al local (28 modelos, 60 sedes/ediciones y 78 resultados), CSS idéntico y JavaScript idéntico tras normalizar finales de línea. Se verificaron enlaces públicos a PDF y afiches y la ficha de Final Ayacucho 2024 en navegador.
+- La raíz de `main` incluye un acceso de compatibilidad a `dist/` que conserva la sección solicitada. La web pública actual sirve directamente la versión completa desde la dirección principal.
 
 ## Rediseño visual local · 20/10/2026
 
