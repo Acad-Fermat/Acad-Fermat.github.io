@@ -1,0 +1,1915 @@
+{
+  "updated": "2026-10-20",
+  "contact": {
+    "phone": "+51 900 926 590",
+    "whatsapp": "51900926590",
+    "address": "Asociación Los Artesanos, Mz. C, lote 01",
+    "city": "Ayacucho"
+  },
+  "mascot": "assets/a55996ddeefb5be4.png",
+  "mascotGirl": "assets/686906d2a0a66a95.png",
+  "mascotWinter": "assets/7ca95b22e0f7fb6d.png",
+  "providedLogo": "assets/c521528823f117a0.png",
+  "events": [
+    {
+      "id": "2026-ocros",
+      "year": 2026,
+      "name": "Ocros",
+      "date": "2026-05-05",
+      "venue": "I. E. JEC Andrés Avelino Cáceres",
+      "edition": "",
+      "poster": "assets/a83b15385846f299.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT OCROS 2026",
+          "file": "assets/e2ecac9dc98cfa3e.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT OCROS 2026",
+          "file": "assets/c61971eeddae964c.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/401f616fc319a578.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · consolidado original",
+          "file": "assets/f74be916abaed2e6.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · 4.º de secundaria",
+          "file": "assets/b1ebcedbfd9665c9.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · 5.º de secundaria",
+          "file": "assets/2902948d7b42cce3.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · 1.º de primaria · versión individual",
+          "file": "assets/6e5cf8e8e33c86b7.pdf",
+          "note": "Este archivo presenta un orden distinto al consolidado original. Confirma la versión definitiva con la organización."
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/04e0de00bdd1617e.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · consolidado completo original",
+          "file": "assets/7ce47c97eb160017.pdf"
+        }
+      ],
+      "resultsNote": "Se conservan los documentos originales. El archivo individual de Matemática de 1.º de primaria presenta un orden distinto al consolidado; consulta a la organización la versión definitiva."
+    },
+    {
+      "id": "2026-pichari",
+      "year": 2026,
+      "name": "Pichari",
+      "date": "2026-05-23",
+      "venue": "Instituto ICIFEM",
+      "edition": "",
+      "poster": "assets/921967eac12a7a42.jpg",
+      "documents": [
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT PICHARI 2026",
+          "file": "assets/9827b63f39ec855a.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT PICHARI 2026",
+          "file": "assets/1cd8b098dfa91176.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO PICHARI",
+          "file": "assets/02889859d13927a9.jpg"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/349897425a67c03a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2026-andahuaylas",
+      "year": 2026,
+      "name": "Andahuaylas",
+      "date": "2026-06-13",
+      "venue": "I. E. Manuel Vivanco Altamirano",
+      "edition": "",
+      "poster": "assets/d1d642afb6f92f3b.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/d178fbc8812d65f0.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/2d876a91c52afc9a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/760d68ede1381b33.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT ANDAHUAYLAS 2026",
+          "file": "assets/05952a3dfbea522f.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT ANDAHUAYLAS 2026",
+          "file": "assets/406d359ae4932943.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/103c0cff9f697b74.png"
+        }
+      ]
+    },
+    {
+      "id": "2026-chumbes",
+      "year": 2026,
+      "name": "Chumbes",
+      "date": "2026-06-30",
+      "venue": "I. E. Santa Isabel de Chumbes",
+      "edition": "",
+      "poster": "assets/0c992ffff63bafd4.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/d9b86ac79a1b34be.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/023d1827365c7ed7.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/1f4c2e01d3ebec73.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT CHUMBES 2026",
+          "file": "assets/2d2eec8109c576c8.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT CHUMBES 2026",
+          "file": "assets/e81f21a081a60a97.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO FERMAT CHUMBES 2026",
+          "file": "assets/b13e762a659bf041.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2026-tambo",
+      "year": 2026,
+      "name": "Tambo",
+      "date": "2026-07-04",
+      "venue": "Colegio San Martín de Porras",
+      "edition": "",
+      "poster": "assets/398aebb2b3eb4077.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/56298a0324acaf72.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/a97f6868218a6698.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/d240150f25760c55.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT TAMBO 2026",
+          "file": "assets/1b02758c7bda7924.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT TAMBO 2026",
+          "file": "assets/77913f7f1ac55890.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO FERMAT TAMBO 2026",
+          "file": "assets/12c00d6f11775b5f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2026-kimbiri",
+      "year": 2026,
+      "name": "Kimbiri",
+      "date": "2026-07-11",
+      "venue": "Colegio privado Diego Thompson",
+      "edition": "",
+      "poster": "assets/9b3bdfb5ef5f8b0c.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT KIMBIRI 2026",
+          "file": "assets/26dea0bfe8e52383.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/d89741f889f71a75.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/a2eeb0961a6c0abb.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT KIMBIRI 2026",
+          "file": "assets/4030cc491831fe32.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/b855fe9721855264.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2026-uripa",
+      "year": 2026,
+      "name": "Uripa",
+      "date": "2026-08-29",
+      "venue": "Colegio José María Arguedas",
+      "edition": "",
+      "poster": "assets/eae1519a23b012d3.png",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "Bases Fermat Uripa 2026",
+          "file": "assets/8f8ee70c96e75318.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/cd79eab305bb1d8b.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/ca41898f332fcac0.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/28bbe584545a9299.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · copia en carpeta de máximos",
+          "file": "assets/b9f435c97bec8ea6.pdf",
+          "note": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT URIPA 2026",
+          "file": "assets/9d712a36f03e9def.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/f3d095db051914e6.jpg"
+        }
+      ],
+      "resultsNote": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+    },
+    {
+      "id": "2026-ninabamba",
+      "year": 2026,
+      "name": "Ninabamba",
+      "date": "2026-09-15",
+      "venue": "I. E. P. Horacio Zeballos Gámez",
+      "edition": "",
+      "poster": "assets/8f9a869dfa0b3f01.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT NINABAMBA 2026",
+          "file": "assets/dd52023c05769ca4.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT NINABAMBA 2026",
+          "file": "assets/cce9440a2b6bcc97.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/8b214d75b596b86f.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/f242fbfe64e6b609.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · resultados combinados",
+          "file": "assets/8c965829e469007c.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · copia en carpeta de máximos",
+          "file": "assets/22afd1b48bf7f127.pdf",
+          "note": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+        }
+      ],
+      "resultsNote": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+    },
+    {
+      "id": "2026-ccaccamarca",
+      "year": 2026,
+      "name": "Ccaccamarca",
+      "date": "2026-09-17",
+      "venue": "I. E. Víctor Raúl Haya de la Torre",
+      "edition": "",
+      "poster": "assets/b14054ed6a588802.png",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/d38631ebcb33c1e3.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/ab34980cce7a0e7e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-huancapi",
+      "year": 2026,
+      "name": "Huancapi",
+      "date": "2026-10-24",
+      "venue": "Colegio Basilio Auqui",
+      "edition": "",
+      "poster": "assets/a17d231cb6cc9edb.png",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT HUANCAPI 2026",
+          "file": "assets/63b2d082cedd3953.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT HUANCAPI 2026",
+          "file": "assets/b23eda6fccc908f4.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-san-miguel",
+      "name": "San Miguel",
+      "year": 2026,
+      "date": "2026-11-07",
+      "venue": "Colegio Señor de los Milagros",
+      "poster": "assets/0f76558b14addb87.jpg",
+      "documents": [
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT SAN MIGUEL 2026",
+          "file": "assets/5b2ff2d22952c5ee.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-santa-rosa",
+      "name": "Santa Rosa",
+      "year": 2026,
+      "date": "2026-11-14",
+      "venue": "Colegio José Gálvez",
+      "poster": "assets/e68ad35b3299cd82.jpg",
+      "documents": [
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT SANTA ROSA 2026",
+          "file": "assets/e6a1ffdf4652dc5b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2026-ayacucho",
+      "name": "Ayacucho",
+      "year": 2026,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "archiveNote": "Los materiales informativos se incorporan a medida que son confirmados por la organización."
+    },
+    {
+      "id": "2026-huanta",
+      "name": "Huanta",
+      "year": 2026,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": []
+    },
+    {
+      "id": "2026-san-francisco",
+      "name": "San Francisco",
+      "year": 2026,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": []
+    },
+    {
+      "id": "2026-union-progreso",
+      "name": "Union Progreso",
+      "year": 2026,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": []
+    },
+    {
+      "id": "2025-ayacucho-becas",
+      "name": "Ayacucho",
+      "year": 2025,
+      "date": "2025-02-08",
+      "venue": "Colegio Liceo School",
+      "poster": "assets/afiche-9456249e24c3dd8d.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO AYACUCHO 2025 (BECAS)",
+          "file": "assets/9456249e24c3dd8d.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIOS",
+          "file": "assets/f75944644089abca.jpg"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/3e8007bbb5bfce24.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación Inicial · Becas Ayacucho 2025",
+          "file": "assets/2db606393789a152.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación Primaria · Becas Ayacucho 2025",
+          "file": "assets/a3efaaa689452dbb.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación Secundaria · Becas Ayacucho 2025",
+          "file": "assets/205837dd4a6096a1.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática Inicial · Becas Ayacucho 2025",
+          "file": "assets/c6e4272694dbbed7.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática Primaria · Becas Ayacucho 2025",
+          "file": "assets/8516e79ba63867c5.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática Secundaria · Becas Ayacucho 2025",
+          "file": "assets/53ee1805c17ab2f9.pdf"
+        }
+      ],
+      "edition": "Concurso de becas"
+    },
+    {
+      "id": "2025-ayacucho-apertura",
+      "year": 2025,
+      "name": "Ayacucho",
+      "date": "2025-04-26",
+      "venue": "Plantel de aplicación Guamán Poma de Ayala",
+      "edition": "Apertura",
+      "poster": "assets/afiche-a3a0397919664941.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO AYACUCHO 2025 (APERTURA)",
+          "file": "assets/a3a0397919664941.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/3e8007bbb5bfce24.jpg"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIOS",
+          "file": "assets/f75944644089abca.jpg"
+        }
+      ],
+      "resultsNote": "Los PDF localizados en la carpeta de apertura llevan el rótulo «Ayacucho Final» y metadatos de 2024. Quedan pendientes de confirmar y no se presentan como resultados de la apertura 2025."
+    },
+    {
+      "id": "2025-huanta",
+      "year": 2025,
+      "name": "Huanta",
+      "date": "2025-05-03",
+      "venue": "G. U. E. González Vigil",
+      "edition": "",
+      "poster": "assets/afiche-4b2b1aaa600a5a43.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO HUANTA 2025",
+          "file": "assets/4b2b1aaa600a5a43.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/3e8007bbb5bfce24.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Resultados combinados de Matemática y Comunicación",
+          "file": "assets/3b1bc28453b1cda9.pdf",
+          "note": "Versión PDF preparada desde el Excel original, conservando sus valores guardados, sin recalcular resultados."
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación - detalle disponible de primaria",
+          "file": "assets/783f00b97c9f1fb8.pdf",
+          "note": "Versión PDF preparada desde el Excel original, conservando sus valores guardados, sin recalcular resultados."
+        }
+      ]
+    },
+    {
+      "id": "2025-ica",
+      "year": 2025,
+      "name": "Ica",
+      "date": "2025-05-24",
+      "venue": "I. E. 22295 San Luisito",
+      "edition": "",
+      "poster": "assets/afiche-051e94bd5ac2a2fb.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT ICA 2025",
+          "file": "assets/051e94bd5ac2a2fb.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/c42181a483171754.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Resultados combinados de Matemática y Comunicación",
+          "file": "assets/42825c88265cdda0.pdf",
+          "note": "Versión PDF preparada desde el Excel original, conservando sus valores guardados, sin recalcular resultados."
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática - resultados por nivel y grado",
+          "file": "assets/94fa52502551fc68.pdf",
+          "note": "Versión PDF preparada desde el Excel original, conservando sus valores guardados, sin recalcular resultados."
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación - grados disponibles en el archivo",
+          "file": "assets/8817440fde854c92.pdf",
+          "note": "Versión PDF preparada desde el Excel original, conservando sus valores guardados, sin recalcular resultados."
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO 2",
+          "file": "assets/751d1f4cc1ab6d08.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2025-pichari",
+      "year": 2025,
+      "name": "Pichari",
+      "date": "2025-05-31",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-ddd10e7717d641a1.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT PICHARI 2025",
+          "file": "assets/ddd10e7717d641a1.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/8f932a5a19bc29b7.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/8680b141a8cc82de.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/53cffc67b529754e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-huancayo",
+      "year": 2025,
+      "name": "Huancayo",
+      "date": "2025-06-08",
+      "venue": "Colegio Adventista",
+      "edition": "",
+      "poster": "assets/afiche-0dd2222bcb3cc06f.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT HUANCAYO 2025",
+          "file": "assets/0dd2222bcb3cc06f.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/9980995c1bb3409a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/fabe1970d363032d.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-andahuaylas",
+      "year": 2025,
+      "name": "Andahuaylas",
+      "date": "2025-06-28",
+      "venue": "Manuel Vivanco A.",
+      "edition": "",
+      "poster": "assets/afiche-933c07f09d0575b9.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT ANDAHUAYLAS 2025",
+          "file": "assets/933c07f09d0575b9.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/b5111c453ddedb02.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/34ed9dd1b421775a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/f5e4ad349a769179.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-chumbes",
+      "year": 2025,
+      "name": "Chumbes",
+      "date": "2025-07-01",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-0e30a346185843ad.jpg",
+      "documents": [
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/3e8007bbb5bfce24.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Lectura · primaria y secundaria",
+          "file": "assets/ff0672abd1e55a21.pdf"
+        },
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT CHUMBES 2025",
+          "file": "assets/0e30a346185843ad.pdf"
+        }
+      ],
+      "archiveNote": "La portada del PDF de bases aportado identifica a Santa Isabel de Chumbes y el 1 de julio de 2025; se actualiza la ficha con esa fuente."
+    },
+    {
+      "id": "2025-kimbiri",
+      "year": 2025,
+      "name": "Kimbiri",
+      "date": "2025-07-12",
+      "venue": "Colegio privado Diego Thompson",
+      "edition": "",
+      "poster": "assets/afiche-eb0a0f0a9383656c.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT KIMBIRI 2025",
+          "file": "assets/eb0a0f0a9383656c.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/a826c7ce4bafef35.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-churcampa",
+      "year": 2025,
+      "name": "Churcampa",
+      "date": "2025-08-16",
+      "venue": "I. E. Antonio Raymondi",
+      "edition": "",
+      "poster": "assets/afiche-9068a3ee670c03a6.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT CHURCAMPA 2025",
+          "file": "assets/9068a3ee670c03a6.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/51236761ec193284.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2025-santa-rosa",
+      "year": 2025,
+      "name": "Santa Rosa",
+      "date": "2025-08-23",
+      "venue": "José Gálvez",
+      "edition": "",
+      "poster": "assets/afiche-582e2fe45379be50.jpg",
+      "documents": [
+        {
+          "kind": "Bases y temario",
+          "name": "BASES Y TEMARIO FERMAT SANTA ROSA 2025",
+          "file": "assets/582e2fe45379be50.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "Horario por nivel y curso",
+          "file": "assets/b7e155b4dbb71543.jpg"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/7faa34d637a6e16b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-quillabamba",
+      "year": 2025,
+      "name": "Quillabamba",
+      "date": "2025-08-30",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-2c3834858feb50cb.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/fbe4a7108bf8a9ff.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT QUILLABAMBA 2025",
+          "file": "assets/2c3834858feb50cb.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT QUILLABAMBA 2025",
+          "file": "assets/ac18cabde4c58793.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "horario",
+          "file": "assets/2d940b576637485a.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2025-san-miguel",
+      "year": 2025,
+      "name": "San Miguel",
+      "date": "2025-09-06",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-6a69734106209008.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/8cda80422d2ac371.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT SAN MIGUEL 2025",
+          "file": "assets/6a69734106209008.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT SAN MIGUEL 2025",
+          "file": "assets/d0fbf49d45e5b2f1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-uripa",
+      "year": 2025,
+      "name": "Uripa",
+      "date": "2025-09-13",
+      "venue": "Colegio José María Arguedas",
+      "edition": "",
+      "poster": "assets/afiche-dc21a28678271c0a.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT URIPA 2025",
+          "file": "assets/dc21a28678271c0a.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT URIPA 2025",
+          "file": "assets/165e59e55bc67667.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-villa-virgen",
+      "year": 2025,
+      "name": "Villa Virgen",
+      "date": "2025-09-20",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-cd8804ae43961bea.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/e70b965da47b2441.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/8b1f7be63fe87694.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT VILLA VIREN 2025",
+          "file": "assets/cd8804ae43961bea.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT VILLA VIRGEN 2025",
+          "file": "assets/f7423ec89fc9db8b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "2025-cangallo",
+      "year": 2025,
+      "name": "Cangallo",
+      "date": "2025-09-27",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-521f133dd62b09b9.jpg",
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/bdd3bf952fdf6de8.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados por grado",
+          "file": "assets/4209d593a01e49da.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/6c0b400b7864512f.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · copia en subcarpeta duplicada",
+          "file": "assets/4159dd3743744dcf.pdf",
+          "note": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT VILLA VIREN 2025",
+          "file": "assets/521f133dd62b09b9.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT CANGALLO 2025",
+          "file": "assets/b4d1d8b69ec6d796.pdf"
+        }
+      ],
+      "resultsNote": "Se encontró otra versión del mismo resultado con diferencias. Se conservan ambas copias originales; confirma con la organización cuál es la vigente."
+    },
+    {
+      "id": "2025-canete",
+      "year": 2025,
+      "name": "Cañete",
+      "date": "2025-10-04",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/69c3cb656ce29e05.jpeg",
+      "documents": []
+    },
+    {
+      "id": "2025-chincha",
+      "year": 2025,
+      "name": "Chincha",
+      "date": "2025-10-18",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/17063dbb5fae17a5.jpeg",
+      "documents": []
+    },
+    {
+      "id": "2025-huancavelica",
+      "year": 2025,
+      "name": "Huancavelica",
+      "date": "2025-10-25",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/7c29ef225b741f6a.jpeg",
+      "documents": []
+    },
+    {
+      "id": "2025-tarma",
+      "year": 2025,
+      "name": "Tarma",
+      "date": "2025-10-25",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/afiche-0b6a196e54a973b4.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT TARMA 2025",
+          "file": "assets/25c3a2368dabe8cf.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados por grado",
+          "file": "assets/b5ec850838a269cc.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · resultados por grado",
+          "file": "assets/498802b87ad64b08.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/098de8f22b9c959b.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT TARMA 2025",
+          "file": "assets/0b6a196e54a973b4.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT TARMA 2025",
+          "file": "assets/0c2812326f378097.pdf"
+        }
+      ],
+      "archiveNote": "El afiche que encabeza las bases aportadas indica 25 de octubre de 2025. El archivo anterior mostraba 11 de octubre; consulta a la organización ante discrepancias entre versiones."
+    },
+    {
+      "id": "2025-lima",
+      "year": 2025,
+      "name": "Lima",
+      "date": "2025-11-08",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/ca1c6dc8ddbda1d2.jpeg",
+      "documents": []
+    },
+    {
+      "id": "2025-lircay",
+      "year": 2025,
+      "name": "Lircay",
+      "date": "2025-11-15",
+      "venue": null,
+      "edition": "",
+      "poster": "assets/b56816807715a0bd.jpeg",
+      "documents": []
+    },
+    {
+      "id": "2025-ayacucho-gran-final",
+      "year": 2025,
+      "name": "Ayacucho",
+      "date": "2025-11-29",
+      "venue": "Guamán Poma de Ayala",
+      "edition": "Gran final",
+      "poster": "assets/afiche-d12daefbc9f34c6f.jpg",
+      "documents": [
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT AYACUCHO 2025 (FINAL)",
+          "file": "assets/d8602d9ed88d3248.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT AYACUCHO 2025 (FINAL)",
+          "file": "assets/c3a1e6f5a0f2d58a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · final Ayacucho 2025",
+          "file": "assets/c8af62db1815d3b9.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · final Ayacucho 2025",
+          "file": "assets/ee1e1ee036ac0e1a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática y Comunicación · resultados combinados",
+          "file": "assets/f5edf4b44f1015d1.pdf"
+        },
+        {
+          "kind": "Bases",
+          "name": "BASES FERMAT AYACUCHO 2025 (FINAL)",
+          "file": "assets/d12daefbc9f34c6f.pdf"
+        },
+        {
+          "kind": "Temario",
+          "name": "TEMARIO FERMAT AYACUCHO 2025 (FINAL)",
+          "file": "assets/224c44fcf52f8be2.pdf"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIOS",
+          "file": "assets/f75944644089abca.jpg"
+        },
+        {
+          "kind": "Horario",
+          "name": "HORARIO",
+          "file": "assets/3e8007bbb5bfce24.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2024-ayacucho-gran-final",
+      "name": "Ayacucho",
+      "year": 2024,
+      "date": "2024-11-09",
+      "venue": null,
+      "poster": null,
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "Matemática · Final Ayacucho 2024",
+          "file": "assets/2c5133c54a588d8b.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comunicación · Final Ayacucho 2024",
+          "file": "assets/f02be1cb5d55a510.pdf"
+        }
+      ],
+      "edition": "Gran final",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados.",
+      "resultsNote": "Edición final del 9 de noviembre de 2024, confirmada por la organización. Se conservan los consolidados originales de Matemática y Comunicación."
+    },
+    {
+      "id": "2024-andahuaylas",
+      "name": "Andahuaylas",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-ayacucho-apertura",
+      "name": "Ayacucho",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Apertura",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-cangallo",
+      "name": "Cangallo",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-chincheros",
+      "name": "Chincheros",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-huancayo",
+      "name": "Huancayo",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-huanta",
+      "name": "Huanta",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-kimbiri",
+      "name": "Kimbiri",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-pichari",
+      "name": "Pichari",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-quillabamba",
+      "name": "Quillabamba",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-san-miguel",
+      "name": "San Miguel",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-santa-rosa",
+      "name": "Santa Rosa",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-sivia",
+      "name": "Sivia",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2024-tarma",
+      "name": "Tarma",
+      "year": 2024,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-andahuaylas",
+      "name": "Andahuaylas",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-ayacucho",
+      "name": "Ayacucho",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-chincheros",
+      "name": "Chincheros",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-huanta",
+      "name": "Huanta",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-pichari",
+      "name": "Pichari",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [
+        {
+          "kind": "Resultados",
+          "name": "1RO PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/c8b8b3caa728b130.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "1RO SECUNDARIA · archivo histórico Pichari 2023",
+          "file": "assets/6cdc6aa9b29bf1da.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "2DO PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/aec2258ebd8bb28a.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "2DO SECUNDARIA · archivo histórico Pichari 2023",
+          "file": "assets/58254022fb436d4b.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "3RO PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/9d962a857e45fce1.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "3RO SECUNDARIA · archivo histórico Pichari 2023",
+          "file": "assets/29483b12c56c7129.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "4TO DE PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/f148db4686ec3844.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "4TO DE SECUNDARIA · archivo histórico Pichari 2023",
+          "file": "assets/7537874782e47b12.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "5TO PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/1725c789b3306ff6.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "5TO SECUNDARIA · archivo histórico Pichari 2023",
+          "file": "assets/32b51a9353d1eea3.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "6TO PRIMARIA · archivo histórico Pichari 2023",
+          "file": "assets/4dbdacc68f934fd6.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "INICIAL 03 AÑOS · archivo histórico Pichari 2023",
+          "file": "assets/539ecea1d41238f5.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "INICIAL 04 AÑOS · archivo histórico Pichari 2023",
+          "file": "assets/38c9bdc07afe7709.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "INICIAL 05 AÑOS · archivo histórico Pichari 2023",
+          "file": "assets/9194b059974acd16.pdf"
+        }
+      ],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados.",
+      "resultsNote": "Resultados del archivo histórico de Pichari: procedencia de la carpeta 2023 y metadatos de creación de junio de 2023. Los originales se conservan sin recalcular puntajes."
+    },
+    {
+      "id": "2023-quillabamba",
+      "name": "Quillabamba",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    },
+    {
+      "id": "2023-santa-rosa",
+      "name": "Santa Rosa",
+      "year": 2023,
+      "date": null,
+      "venue": null,
+      "poster": null,
+      "documents": [],
+      "edition": "Archivo histórico",
+      "archiveNote": "Edición histórica. Los afiches y documentos se incorporan únicamente cuando su sede y año están identificados."
+    }
+  ],
+  "academy": [
+    {
+      "id": "escolar-2027",
+      "year": 2027,
+      "name": "Verano escolar",
+      "audience": "Escolares",
+      "start": "2027-01-11",
+      "schedule": null,
+      "description": "Refuerza lo aprendido y adelanta nuevos temas con Matemática, Comunicación, lectura, talleres y deporte.",
+      "courses": [
+        "Matemática",
+        "Comunicación",
+        "Lectura y escritura",
+        "Talleres",
+        "Deporte"
+      ],
+      "images": [
+        "assets/c6028aa28041901d.jpeg",
+        "assets/82350b0955204004.jpeg",
+        "assets/9cd4d0965e57a3b5.jpeg"
+      ],
+      "venues": [
+        "Ayacucho",
+        "San Miguel",
+        "Chumbes"
+      ]
+    },
+    {
+      "id": "coar-2027",
+      "year": 2027,
+      "name": "Preparación COAR",
+      "audience": "COAR",
+      "start": "2027-01-11",
+      "schedule": "8:00 a. m. a 1:00 p. m.",
+      "description": "Prepárate para el proceso de admisión COAR con desarrollo de temario, seminarios y evaluaciones de práctica.",
+      "courses": [
+        "Razonamiento matemático",
+        "Razonamiento verbal",
+        "Comprensión lectora",
+        "Simulacros tipo COAR"
+      ],
+      "images": [
+        "assets/89b2414cf4879d61.jpeg",
+        "assets/6e8076900686a98c.jpeg",
+        "assets/11fd430af6ffdef7.jpeg",
+        "assets/226b066253015946.jpeg",
+        "assets/04a363437999e05e.jpeg",
+        "assets/576a3c45a2288d7e.jpeg"
+      ],
+      "venues": [
+        "Ayacucho",
+        "San Miguel",
+        "Chumbes"
+      ]
+    },
+    {
+      "id": "coar-octubre-2027",
+      "year": 2027,
+      "name": "COAR · ciclo octubre",
+      "audience": "COAR",
+      "start": "2026-10-05",
+      "schedule": null,
+      "description": "Ciclo de preparación para el proceso COAR 2027, dirigido a estudiantes de 5.º y 6.º de primaria y 1.º y 2.º de secundaria.",
+      "courses": [
+        "Desarrollo del temario COAR",
+        "Seminarios",
+        "Examen semanal"
+      ],
+      "images": [
+        "assets/8aa424ed13bc4137.jpeg"
+      ],
+      "venues": []
+    },
+    {
+      "id": "escolar-2026",
+      "year": 2026,
+      "name": "Verano escolar",
+      "audience": "Escolares",
+      "start": "2026-01-12",
+      "schedule": "Lunes a viernes, de 8:00 a. m. a 1:00 p. m. (según programa).",
+      "description": "Reforzamiento y adelanto escolar para inicial, primaria y secundaria. Consulta en cada afiche los grupos y actividades.",
+      "courses": [
+        "Matemática",
+        "Comunicación",
+        "Lectura y escritura",
+        "Talleres"
+      ],
+      "images": [
+        "assets/c90542fb5ea3038a.jpeg",
+        "assets/a7e4ff8a9c8d3aac.jpeg",
+        "assets/37d33cf44d9c0034.jpeg",
+        "assets/f81d763b0f8e03f5.jpeg",
+        "assets/1aafca1ef66f8b68.jpeg",
+        "assets/e57881904535569e.jpeg"
+      ],
+      "venues": []
+    },
+    {
+      "id": "coar-2026",
+      "year": 2026,
+      "name": "Preparación COAR",
+      "audience": "COAR",
+      "start": "2026-01-05",
+      "schedule": null,
+      "description": "Archivo del ciclo COAR 2026. Afiches, horario y material informativo del programa.",
+      "courses": [
+        "Aritmética",
+        "Álgebra",
+        "Geometría",
+        "Razonamiento matemático",
+        "Razonamiento verbal",
+        "Comprensión lectora",
+        "Psicotécnico",
+        "Entrevista"
+      ],
+      "images": [
+        "assets/5f4a09d195ed2c3e.jpeg",
+        "assets/be457220dd539d66.jpeg",
+        "assets/496df55eee74e6a2.jpeg",
+        "assets/5c0fbce129d7e486.jpeg",
+        "assets/b114c3ded0e0d6aa.jpeg",
+        "assets/915666a63789216a.jpeg"
+      ],
+      "venues": []
+    },
+    {
+      "id": "escolar-2025",
+      "year": 2025,
+      "name": "Verano escolar",
+      "audience": "Escolares",
+      "start": "2025-01-06",
+      "schedule": null,
+      "description": "Archivo del ciclo verano 2025 para inicial, primaria y secundaria.",
+      "courses": [
+        "Preparación para concursos",
+        "Matemática",
+        "Comunicación"
+      ],
+      "images": [
+        "assets/7fa03afd7aa20496.jpeg",
+        "assets/c390fd46bf4fc02f.jpeg",
+        "assets/07cdba7fab993d53.jpeg",
+        "assets/6dd0a92ea6e257e5.jpeg",
+        "assets/c5f6241c09b2207f.jpeg"
+      ],
+      "venues": []
+    },
+    {
+      "id": "coar-2025",
+      "year": 2025,
+      "name": "Grupo COAR",
+      "audience": "COAR",
+      "start": null,
+      "schedule": null,
+      "description": "Archivo de la preparación COAR para estudiantes de 5.º de primaria a 2.º de secundaria.",
+      "courses": [],
+      "images": [
+        "assets/a6e1325c054499ed.jpeg"
+      ],
+      "venues": []
+    }
+  ],
+  "models": [
+    {
+      "level": "Inicial",
+      "grade": 3,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/d5467e57f6ceb7ac.pdf"
+    },
+    {
+      "level": "Inicial",
+      "grade": 3,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Ayacucho Apertura",
+      "file": "assets/5be17c27e7b1d057.pdf"
+    },
+    {
+      "level": "Inicial",
+      "grade": 4,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/53685ae9f14b3675.pdf"
+    },
+    {
+      "level": "Inicial",
+      "grade": 4,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Pichari",
+      "file": "assets/3f32ed9a90b1d744.pdf"
+    },
+    {
+      "level": "Inicial",
+      "grade": 5,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/e21134825e02d3e3.pdf"
+    },
+    {
+      "level": "Inicial",
+      "grade": 5,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Pichari",
+      "file": "assets/8096db1f814cdf5f.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 1,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/d7cf775ab7083131.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 1,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Quillabamba",
+      "file": "assets/9f0dd156bf3b061b.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 2,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/e693430237db376a.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 2,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Quillabamba",
+      "file": "assets/fa4f3b46634d7c2d.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 3,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/d5df072e520db823.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 3,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Quillabamba",
+      "file": "assets/b01a71204b7abfd6.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 4,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/8a251104350db75b.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 4,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Andahuaylas",
+      "file": "assets/68e4acc70771cbd1.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 5,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/7fa7d0f6192d2dc6.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 5,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Andahuaylas",
+      "file": "assets/5b94455868e38a7d.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 6,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/cca1b9ba3f2bebd0.pdf"
+    },
+    {
+      "level": "Primaria",
+      "grade": 6,
+      "subject": "Comunicación",
+      "year": 2023,
+      "city": "Pichari",
+      "file": "assets/1d080d1c74456d44.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 1,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/fa43dabf95509406.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 1,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Ayacucho Apertura",
+      "file": "assets/099170c84c819aed.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 2,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/40dd40978d9d3991.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 2,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Pichari",
+      "file": "assets/f4a98a0cbf60070e.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 3,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/55ac585b531fc89c.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 3,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Quillabamba",
+      "file": "assets/a8448aebd723840a.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 4,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/7f48ffa45845a19e.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 4,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Andahuaylas",
+      "file": "assets/15e479ac74b6e8c8.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 5,
+      "subject": "Matemática",
+      "year": 2023,
+      "city": "Santa Rosa",
+      "file": "assets/5fab0e3929d2a7fb.pdf"
+    },
+    {
+      "level": "Secundaria",
+      "grade": 5,
+      "subject": "Comunicación",
+      "year": 2024,
+      "city": "Andahuaylas",
+      "file": "assets/d339b0af9d7609e7.pdf"
+    }
+  ],
+  "books": [
+    {
+      "id": "comunicacion-inicial",
+      "subject": "Comunicación",
+      "level": "Inicial",
+      "grades": [
+        3,
+        4,
+        5
+      ],
+      "image": "assets/64856a4ddb19959c.jpeg",
+      "title": "Colección de Comunicación",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    },
+    {
+      "id": "comunicacion-primaria",
+      "subject": "Comunicación",
+      "level": "Primaria",
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "image": "assets/9202766c2d363d7b.jpeg",
+      "title": "Colección de Comunicación",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    },
+    {
+      "id": "comunicacion-secundaria",
+      "subject": "Comunicación",
+      "level": "Secundaria",
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "image": "assets/e32b7725150f5765.jpeg",
+      "title": "Colección de Comunicación",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    },
+    {
+      "id": "matematica-inicial",
+      "subject": "Matemática",
+      "level": "Inicial",
+      "grades": [
+        3,
+        4,
+        5
+      ],
+      "image": "assets/33e2ccd4613ebccf.jpeg",
+      "title": "Colección de Matemática",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    },
+    {
+      "id": "matematica-primaria",
+      "subject": "Matemática",
+      "level": "Primaria",
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "image": "assets/6182c38ba1c3fc1b.jpeg",
+      "title": "Colección de Matemática",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    },
+    {
+      "id": "matematica-secundaria",
+      "subject": "Matemática",
+      "level": "Secundaria",
+      "grades": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "image": "assets/12c43b403b09c6c1.jpeg",
+      "title": "Colección de Matemática",
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+    }
+  ],
+  "news": [],
+  "gallery": [],
+  "diplomas": [],
+  "preuniversity": {
+    "description": "Preparación preuniversitaria Fermat. Consulta los ciclos, cursos y horarios disponibles con nuestro equipo."
+  },
+  "resultsAudit": {
+    "date": "2026-10-20",
+    "documents": 55,
+    "eventsWithResults": 22,
+    "originalFilesInspected": 8670,
+    "archivesInspected": 27,
+    "pdfOccurrencesInspected": 2208,
+    "workbooksInspected": 1112,
+    "excelExports": 5
+  }
+}
