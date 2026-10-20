@@ -30,6 +30,8 @@ Exámenes modelo contiene 28 PDF: uno por cada edad/grado y curso (Matemática y
 
 `main` conserva las fuentes. `gh-pages` contiene solo el sitio y los recursos que utiliza. GitHub Pages debe usar **Deploy from a branch → gh-pages → /(root)**.
 
+La raíz de `main` también incluye un acceso directo a `dist/`, para que la dirección principal abra la misma web cuando GitHub Pages utiliza su configuración inicial `main → /(root)`. Este acceso conserva el enlace a la sección solicitada. No requiere la API de GitHub para servir el sitio.
+
 Con Git autenticado como Acad-Fermat, guarda los cambios en un commit y ejecuta:
 
 ```sh
