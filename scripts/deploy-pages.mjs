@@ -17,8 +17,10 @@ await mkdir(checkout,{recursive:true});
 const fresh = !existsSync(resolve(checkout,'.git'));
 if (fresh) {
   if ((await readdir(checkout)).length) throw Error('El checkout inicial debe estar vacío');
-  git(['init','--initial-branch=gh-pages'],checkout);
-  git(['remote','add','origin',expectedRemote],checkout);
+  // Reutiliza los objetos locales para no volver a transferir todos los PDF.
+  git(['clone','--shared','--no-checkout',root,checkout]);
+  git(['remote','set-url','origin',expectedRemote],checkout);
+  git(['switch','--orphan','gh-pages'],checkout);
 }
 if (git(['remote','get-url','origin'],checkout)!==expectedRemote) throw Error('Remoto de publicación inesperado');
 git(['config','credential.helper','manager'],checkout);
