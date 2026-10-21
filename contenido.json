@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "contact": {
     "phone": "+51 900 926 590",
     "whatsapp": "51900926590",
@@ -378,7 +378,7 @@
       "date": "2026-10-24",
       "venue": "Colegio Basilio Auqui",
       "edition": "",
-      "poster": "assets/web/catalogo-a17d231cb6cc9edb-1900.webp",
+      "poster": "assets/social/huancapi-2026-1600.webp",
       "documents": [
         {
           "kind": "Bases",
@@ -390,6 +390,9 @@
           "name": "TEMARIO FERMAT HUANCAPI 2026",
           "file": "assets/b23eda6fccc908f4.pdf"
         }
+      ],
+      "posterAlternatives": [
+        "assets/web/catalogo-a17d231cb6cc9edb-1900.webp"
       ]
     },
     {
@@ -398,13 +401,16 @@
       "year": 2026,
       "date": "2026-11-07",
       "venue": "Colegio Señor de los Milagros",
-      "poster": "assets/web/catalogo-0f76558b14addb87-1900.webp",
+      "poster": "assets/social/san-miguel-2026-1600.webp",
       "documents": [
         {
           "kind": "Temario",
           "name": "TEMARIO FERMAT SAN MIGUEL 2026",
           "file": "assets/5b2ff2d22952c5ee.pdf"
         }
+      ],
+      "posterAlternatives": [
+        "assets/web/catalogo-0f76558b14addb87-1900.webp"
       ]
     },
     {
@@ -413,13 +419,16 @@
       "year": 2026,
       "date": "2026-11-14",
       "venue": "Colegio José Gálvez",
-      "poster": "assets/web/catalogo-e68ad35b3299cd82-1900.webp",
+      "poster": "assets/social/santa-rosa-2026-1600.webp",
       "documents": [
         {
           "kind": "Temario",
           "name": "TEMARIO FERMAT SANTA ROSA 2026",
           "file": "assets/e6a1ffdf4652dc5b.pdf"
         }
+      ],
+      "posterAlternatives": [
+        "assets/web/catalogo-e68ad35b3299cd82-1900.webp"
       ]
     },
     {
@@ -1816,9 +1825,13 @@
         4,
         5
       ],
-      "image": "assets/web/catalogo-64856a4ddb19959c-1900.webp",
+      "image": "assets/social/comunicacion-inicial-2026-1600.webp",
       "title": "Colección de Comunicación",
-      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado.",
+      "images": [
+        "assets/social/comunicacion-inicial-2026-1600.webp",
+        "assets/web/catalogo-64856a4ddb19959c-1900.webp"
+      ]
     },
     {
       "id": "comunicacion-primaria",
@@ -1832,9 +1845,13 @@
         5,
         6
       ],
-      "image": "assets/web/catalogo-9202766c2d363d7b-1900.webp",
+      "image": "assets/social/comunicacion-primaria-2026-1600.webp",
       "title": "Colección de Comunicación",
-      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado.",
+      "images": [
+        "assets/social/comunicacion-primaria-2026-1600.webp",
+        "assets/web/catalogo-9202766c2d363d7b-1900.webp"
+      ]
     },
     {
       "id": "comunicacion-secundaria",
@@ -1847,9 +1864,13 @@
         4,
         5
       ],
-      "image": "assets/web/catalogo-e32b7725150f5765-1900.webp",
+      "image": "assets/social/comunicacion-secundaria-2026-1600.webp",
       "title": "Colección de Comunicación",
-      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado."
+      "description": "Recopilación de exámenes de concursos Fermat de distintas sedes, organizada por grado.",
+      "images": [
+        "assets/social/comunicacion-secundaria-2026-1600.webp",
+        "assets/web/catalogo-e32b7725150f5765-1900.webp"
+      ]
     },
     {
       "id": "matematica-inicial",
@@ -7195,6 +7216,56 @@
       "height": 665,
       "thumb": "assets/web/fermat-wide-360.webp",
       "srcset": "assets/web/fermat-wide-360.webp 360w, assets/web/fermat-wide-960.webp 960w"
+    },
+    "assets/social/huancapi-2026-1600.webp": {
+      "width": 417,
+      "height": 590,
+      "thumb": "assets/social/huancapi-2026-320.webp",
+      "srcset": "assets/social/huancapi-2026-320.webp 226w, assets/social/huancapi-2026-1600.webp 417w"
+    },
+    "assets/social/santa-rosa-2026-1600.webp": {
+      "width": 509,
+      "height": 720,
+      "thumb": "assets/social/santa-rosa-2026-320.webp",
+      "srcset": "assets/social/santa-rosa-2026-320.webp 226w, assets/social/santa-rosa-2026-1600.webp 509w"
+    },
+    "assets/social/san-miguel-2026-1600.webp": {
+      "width": 509,
+      "height": 720,
+      "thumb": "assets/social/san-miguel-2026-320.webp",
+      "srcset": "assets/social/san-miguel-2026-320.webp 226w, assets/social/san-miguel-2026-1600.webp 509w"
+    },
+    "assets/social/comunicacion-inicial-2026-1600.webp": {
+      "width": 590,
+      "height": 590,
+      "thumb": "assets/social/comunicacion-inicial-2026-320.webp",
+      "srcset": "assets/social/comunicacion-inicial-2026-320.webp 320w, assets/social/comunicacion-inicial-2026-1600.webp 590w"
+    },
+    "assets/social/comunicacion-primaria-2026-1600.webp": {
+      "width": 590,
+      "height": 590,
+      "thumb": "assets/social/comunicacion-primaria-2026-320.webp",
+      "srcset": "assets/social/comunicacion-primaria-2026-320.webp 320w, assets/social/comunicacion-primaria-2026-1600.webp 590w"
+    },
+    "assets/social/comunicacion-secundaria-2026-1600.webp": {
+      "width": 590,
+      "height": 590,
+      "thumb": "assets/social/comunicacion-secundaria-2026-320.webp",
+      "srcset": "assets/social/comunicacion-secundaria-2026-320.webp 320w, assets/social/comunicacion-secundaria-2026-1600.webp 590w"
     }
-  }
+  },
+  "social": [
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "handle": "Concursos Fermat",
+      "url": "https://www.facebook.com/concursos.fermat/"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "handle": "@concurso.fermat",
+      "url": "https://www.tiktok.com/@concurso.fermat"
+    }
+  ]
 }
