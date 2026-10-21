@@ -10,6 +10,7 @@
 - Validación de catálogo y recursos: 28 modelos, 60 sedes/ediciones, 78 resultados y 1282 recursos/variantes. Sintaxis de JavaScript comprobada y catálogo JSON/JS sincronizado.
 - Capturas vigentes: `revision-diseno/redes-transparentes-local.png`, `redes-transparentes-movil.png` y `redes-transparentes-oscuro.png`. Las capturas anteriores de novedades ya no representan la interfaz actual.
 - El usuario autorizó expresamente publicar esta versión simplificada después de revisar las tarjetas transparentes y la restauración de la estructura anterior. Se conserva el destino de GitHub Pages de Acad-Fermat.
+- Publicación completada en GitHub Pages y comprobada por HTTP: cinco archivos de interfaz/datos idénticos al local y doce imágenes/miniaturas nuevas disponibles. Se versionaron las referencias de CSS, datos y aplicación para renovar la caché de los navegadores que conservaban la versión anterior. El informe local de comprobación se guarda en `.local/publicacion-redes-verificada.json`.
 
 ## Portada, identidad, temas y fotografías · 21/10/2026 · versión anterior publicada
 
