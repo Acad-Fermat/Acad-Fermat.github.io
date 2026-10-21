@@ -1,5 +1,11 @@
 # Continuidad para Astra · Web Fermat
 
+## Revisión del 21/10/2026 · publicación autorizada
+
+El usuario pidió renovar la portada, añadir modo oscuro, reemplazar los dos logos e integrar las fotos de `FOTOS PARA  WEB`. Tras recibir la vista local, autorizó expresamente subir esta revisión a GitHub de Acad-Fermat y actualizar la web principal. El destino se conserva: `https://acad-fermat.github.io/`, con fuentes en `main` y publicación en `gh-pages`.
+
+La nueva capa visual es `dist/experience.css`. `contenido.json` incorpora `brand`, `competitionCover`, `photoAlbums` y `media` (dimensiones, miniaturas y srcset). Hay 466 fotos en ocho galerías; los álbumes enlazan a las ediciones mediante `eventId`. Se conservan los 28 modelos, 60 ediciones y 78 resultados. Los originales no se han modificado. Lee README y VERIFICACION para los detalles de esta revisión.
+
 ## Estado actual · 20/10/2026
 
 El usuario autorizó publicar la web principal en la cuenta GitHub Acad-Fermat. El destino es `https://acad-fermat.github.io/`, con las fuentes en `main` y el sitio en `gh-pages`. Lee `README.md` para abrir, validar y publicar. La identidad antigua de Sites se conserva como referencia local, pero ese proyecto no es accesible desde la cuenta conectada.

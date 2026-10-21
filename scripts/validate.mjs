@@ -26,7 +26,10 @@ for (const event of data.events) {
 }
 const assets = new Set();
 function scan(value) {
-  if (typeof value === 'string' && value.startsWith('assets/')) assets.add(value);
+  if (typeof value === 'string' && value.startsWith('assets/')) {
+    // Responsive srcset entries include a width descriptor, not part of the path.
+    value.split(',').forEach(item=>assets.add(item.trim().split(/\s+/)[0]));
+  }
   else if (value && typeof value === 'object') Object.values(value).forEach(scan);
 }
 scan(data);
@@ -35,6 +38,19 @@ for (const path of assets) {
   assert(!local.startsWith('..') && !isAbsolute(local), 'Ruta fuera de dist');
   assert(existsSync(absolute),`Falta ${path}`);
   assert(statSync(absolute).size < 25*1024*1024, `Recurso demasiado grande: ${path}`);
+}
+if (data.photoAlbums) {
+  assert.equal(new Set(data.photoAlbums.map(a=>a.id)).size,data.photoAlbums.length,'Galerías repetidas');
+  for (const album of data.photoAlbums) {
+    assert(data.events.some(e=>e.id===(album.eventId||album.id)),`Galería sin sede: ${album.id}`);
+    assert(album.photos.length,`Galería vacía: ${album.id}`);
+    for (const photo of album.photos) {
+      const meta=data.media?.[photo.image];
+      assert(meta?.thumb && meta.width>0 && meta.height>0,`Foto sin dimensiones o miniatura: ${photo.image}`);
+      assert(Math.max(meta.width,meta.height)<=1600,'Fotografía sin reducir');
+    }
+  }
+  assert(data.brand?.logo && data.brand?.wide && data.competitionCover,'Falta identidad o portada');
 }
 const ayacucho = data.events.find(event => event.id === '2024-ayacucho-gran-final');
 assert.equal(ayacucho.documents.filter(doc=>doc.kind==='Resultados').length,2);

@@ -36,7 +36,7 @@ if (git(['branch','--show-current'],checkout)!=='gh-pages') throw Error('Rama de
 const files = new Set((await readdir(output,{withFileTypes:true})).filter(entry=>entry.isFile()).map(entry=>entry.name));
 const data = JSON.parse(await readFile(resolve(output,'contenido.json'),'utf8'));
 function collect(value) {
-  if (typeof value==='string' && value.startsWith('assets/')) files.add(value);
+  if (typeof value==='string' && value.startsWith('assets/')) value.split(',').forEach(item=>files.add(item.trim().split(/\s+/)[0]));
   else if (value && typeof value==='object') Object.values(value).forEach(collect);
 }
 collect(data);

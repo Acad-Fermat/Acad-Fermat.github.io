@@ -1,5 +1,19 @@
 # Verificación
 
+## Portada, identidad, temas y fotografías · 21/10/2026 · solo local
+
+- Academia, Concursos y Editorial cuentan con accesos visuales y secciones diferenciadas. Se usan los dos logos suministrados y la fotografía PORTADA como fondo de Concursos.
+- Tema claro/oscuro con botón accesible, preferencia inicial del sistema y elección persistente. Comprobada su persistencia después de recargar, además del contraste visual de portada, catálogos y ventanas.
+- 466 fotos en ocho galerías: Ccaccamarca 2026 (51), Kimbiri 2026 (10), Pichari 2024 (26), Pichari 2025 (35), Santa Rosa VRAEM 2025 (75), Tambo 2026 (48), Uripa 2025 (59), Uripa 2026 (162). La portada es un archivo adicional. Los años siguen las carpetas aportadas; no se dedujeron fechas nuevas de las fotografías.
+- Copias WebP: 999.117.814 bytes de originales a 111.085.086 bytes, incluidas miniaturas y variantes de afiches, personajes y logos (88,9 % menos). Fotos ampliadas: 1600 px de lado máximo, 152 KB de media; archivo fotográfico más pesado, incluida la portada: 579 KB. Se conservan los originales y todos los PDF sin modificar. Las fotos se cargan por demanda, con miniaturas y dimensiones declaradas.
+- Probados filtro de galerías por año (8 galerías/466 fotos en total, 3/169 en 2025), ampliación desde tarjeta y desde ficha de sede, botones anterior/siguiente, flechas del teclado, salto a última foto, regreso circular a primera y cierre con Escape. Inspección visual del visor a 390 px. El gesto táctil está implementado; no se dispone de prueba física de pantalla táctil.
+- Probados menú móvil, selección de modelos (Inicial, 3 años, Comunicación: un PDF), filtros editoriales (Matemática, Primaria, 6.º: enlace WhatsApp correcto), galería de Verano escolar 2027 y cambio al segundo afiche, búsqueda de Uripa, cuatro documentos de resultados y acceso a sus 162 fotografías. No se enviaron mensajes.
+- Comprobadas las seis vistas principales en móvil (390 px) y tableta (768 px), y revisión de escritorio a 1280 px y al tamaño normal de ventana: sin desbordamiento horizontal ni imágenes cargadas rotas. Sin errores de consola detectados durante las pruebas. Se mantienen los estilos de movimiento reducido; no se emuló esa preferencia.
+- `node --check dist/app.js`, `node --check dist/editar.js` y `node scripts/validate.mjs` correctos: JSON/JS sincronizados, 28 modelos, 60 sedes/ediciones, 78 resultados y 1270 recursos/variantes disponibles. Las galerías se comprueban contra los identificadores reales de las sedes.
+- El editor conserva los campos nuevos al importar/exportar el catálogo. Se actualizó su identidad y el tema inicial; no se repitió una exportación manual completa.
+- Capturas: `revision-diseno/portada-tres-areas-claro.png`, `portada-tres-areas-oscuro.png`, `concursos-portada-local.png`, `galeria-movil-local.png`. Informe de compresión: `revision-diseno/optimizacion-imagenes.json`.
+- No se hizo commit, push ni despliegue de esta revisión. La web pública conserva la versión anterior hasta autorización del usuario. La revisión del navegador se realizó mediante `node preview.mjs`; el protocolo file no está habilitado en la herramienta de revisión. El lanzador `ABRIR_WEB.cmd` y la carga desde contenido.js se conservan.
+
 ## Archivo 2023–2026 y selección de exámenes · 20/10/2026
 
 - Exámenes modelo: 28 PDF, uno por cada combinación de nivel, grado/edad y curso. Se verificaron visualmente los encabezados de los archivos de 2023/2024; se excluyeron solucionarios y un PDF de Pichari cuyo nombre decía 3.º de secundaria pero cuyo encabezado decía 2.º. Se conserva el PDF correcto de Quillabamba 2024 para 3.º.
