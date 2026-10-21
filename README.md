@@ -4,6 +4,12 @@ Academia, Concursos y Editorial Fermat. Sitio estático en español con afiches,
 
 Web principal: https://acad-fermat.github.io/
 
+## Revisión de publicaciones · 21/10/2026 · publicación autorizada
+
+Tras la corrección del usuario, se conserva la estructura anterior, sin secciones de novedades ni información adicional. Solo se actualizan las imágenes de tres afiches de concursos (Huancapi, San Miguel y Santa Rosa 2026) y tres catálogos de Comunicación dentro de las fichas existentes. La página principal incorpora dos tarjetas transparentes con los logos y enlaces de Facebook y TikTok. Las fuentes y la procedencia están en `FUENTES_FACEBOOK.md`.
+
+Las seis imágenes públicas principales suman 505.992 bytes, un 25,1 % menos que las recibidas; se conservan miniaturas y originales. Después de revisar la versión simplificada, el usuario autorizó expresamente publicarla en GitHub de Acad-Fermat y actualizar la web principal.
+
 ## Abrir y comprobar
 
 ```sh

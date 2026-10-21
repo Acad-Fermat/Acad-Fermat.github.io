@@ -1,6 +1,17 @@
 # Verificación
 
-## Portada, identidad, temas y fotografías · 21/10/2026 · solo local
+## Flyers y redes · versión simplificada · 21/10/2026 · publicación autorizada
+
+- Seis imágenes públicas de Facebook exportadas desde recursos ya cargados: tres afiches de concursos y tres catálogos de Comunicación. Se utilizaron únicamente publicaciones públicas disponibles, sin iniciar sesión. Procedencia documentada en `FUENTES_FACEBOOK.md`.
+- Se restauró la estructura anterior de portada, Academia, Concursos, Editorial, contacto y pie. Se retiraron las novedades, sus filtros y los bloques nuevos de horarios e inscripción, según la corrección del usuario. Los textos y datos anteriores se conservan; solo cambian las seis imágenes y sus variantes. Los visores editoriales conservan el catálogo anterior como segunda imagen.
+- Facebook y TikTok aparecen únicamente en la página principal, dentro de dos tarjetas transparentes con sus logos, enlace externo y foco accesible. Se comprobó que los enlaces corresponden a las cuentas suministradas.
+- Comprobadas las tarjetas en escritorio, móvil de 390 px y modo oscuro: sin desbordamiento horizontal. Verificada ausencia de secciones adicionales en las tres áreas y conservación del flyer nuevo de Huancapi junto a sus dos documentos originales. Sin errores de consola detectados. No se enviaron mensajes.
+- Seis imágenes principales: 505.992 bytes frente a 675.494 recibidos (25,1 % menos), sin ampliar resolución. Miniaturas: 159.928 bytes. Informe local: `revision-diseno/facebook-optimizacion.json`.
+- Validación de catálogo y recursos: 28 modelos, 60 sedes/ediciones, 78 resultados y 1282 recursos/variantes. Sintaxis de JavaScript comprobada y catálogo JSON/JS sincronizado.
+- Capturas vigentes: `revision-diseno/redes-transparentes-local.png`, `redes-transparentes-movil.png` y `redes-transparentes-oscuro.png`. Las capturas anteriores de novedades ya no representan la interfaz actual.
+- El usuario autorizó expresamente publicar esta versión simplificada después de revisar las tarjetas transparentes y la restauración de la estructura anterior. Se conserva el destino de GitHub Pages de Acad-Fermat.
+
+## Portada, identidad, temas y fotografías · 21/10/2026 · versión anterior publicada
 
 - Academia, Concursos y Editorial cuentan con accesos visuales y secciones diferenciadas. Se usan los dos logos suministrados y la fotografía PORTADA como fondo de Concursos.
 - Tema claro/oscuro con botón accesible, preferencia inicial del sistema y elección persistente. Comprobada su persistencia después de recargar, además del contraste visual de portada, catálogos y ventanas.
@@ -12,7 +23,7 @@
 - `node --check dist/app.js`, `node --check dist/editar.js` y `node scripts/validate.mjs` correctos: JSON/JS sincronizados, 28 modelos, 60 sedes/ediciones, 78 resultados y 1270 recursos/variantes disponibles. Las galerías se comprueban contra los identificadores reales de las sedes.
 - El editor conserva los campos nuevos al importar/exportar el catálogo. Se actualizó su identidad y el tema inicial; no se repitió una exportación manual completa.
 - Capturas: `revision-diseno/portada-tres-areas-claro.png`, `portada-tres-areas-oscuro.png`, `concursos-portada-local.png`, `galeria-movil-local.png`. Informe de compresión: `revision-diseno/optimizacion-imagenes.json`.
-- No se hizo commit, push ni despliegue de esta revisión. La web pública conserva la versión anterior hasta autorización del usuario. La revisión del navegador se realizó mediante `node preview.mjs`; el protocolo file no está habilitado en la herramienta de revisión. El lanzador `ABRIR_WEB.cmd` y la carga desde contenido.js se conservan.
+- Esta versión fue publicada después de recibir autorización: fuentes en `main` (`d82c695`) y sitio en `gh-pages` (`1bd1dcb`), con comprobación pública posterior. La revisión del navegador se realizó mediante `node preview.mjs`; el protocolo file no está habilitado en la herramienta de revisión. El lanzador `ABRIR_WEB.cmd` y la carga desde contenido.js se conservan.
 
 ## Archivo 2023–2026 y selección de exámenes · 20/10/2026
 

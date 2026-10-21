@@ -52,6 +52,10 @@ if (data.photoAlbums) {
   }
   assert(data.brand?.logo && data.brand?.wide && data.competitionCover,'Falta identidad o portada');
 }
+if (data.social) {
+  assert.equal(data.social.find(s=>s.id==='facebook')?.url,'https://www.facebook.com/concursos.fermat/','Facebook incorrecto');
+  assert.equal(data.social.find(s=>s.id==='tiktok')?.url,'https://www.tiktok.com/@concurso.fermat','TikTok incorrecto');
+}
 const ayacucho = data.events.find(event => event.id === '2024-ayacucho-gran-final');
 assert.equal(ayacucho.documents.filter(doc=>doc.kind==='Resultados').length,2);
 assert.equal(data.events.find(event=>event.id==='2023-pichari').documents.filter(doc=>doc.kind==='Resultados').length,14);

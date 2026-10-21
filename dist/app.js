@@ -32,6 +32,12 @@
   const btn = (label,href,cls='',target=false) => `<a class="btn ${cls}" href="${esc(href)}" ${target?external:''}>${label}${icon()}</a>`;
   const empty = (title,body) => `<div class="empty"><h2>${title}</h2><p>${body}</p></div>`;
 
+
+  const socialIcon = id => id==='facebook'
+    ? '<svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="23" fill="#1877f2"/><path fill="#fff" d="M27.5 40V26h4.7l.7-5.5h-5.4V17c0-1.6.5-2.7 2.8-2.7h2.9V9.4a39 39 0 0 0-4.3-.2c-4.3 0-7.2 2.6-7.2 7.4v3.9H17V26h4.7v14Z"/></svg>'
+    : '<svg viewBox="0 0 48 48" aria-hidden="true"><rect x="1" y="1" width="46" height="46" rx="13" fill="#111b23"/><path fill="#25f4ee" transform="translate(-1 0)" d="M28 10c.6 3.8 2.8 6 6.8 6.4v5a13.4 13.4 0 0 1-6.7-2.2v11.4a8.9 8.9 0 1 1-7.5-8.7v5.2a3.9 3.9 0 1 0 2.4 3.5V10Z"/><path fill="#fe2c55" transform="translate(1 1)" d="M28 10c.6 3.8 2.8 6 6.8 6.4v5a13.4 13.4 0 0 1-6.7-2.2v11.4a8.9 8.9 0 1 1-7.5-8.7v5.2a3.9 3.9 0 1 0 2.4 3.5V10Z"/><path fill="#fff" d="M28 10c.6 3.8 2.8 6 6.8 6.4v5a13.4 13.4 0 0 1-6.7-2.2v11.4a8.9 8.9 0 1 1-7.5-8.7v5.2a3.9 3.9 0 1 0 2.4 3.5V10Z"/></svg>';
+  function socialSection(){return `<section class="social-section wrap" id="redes" aria-labelledby="social-title"><h2 id="social-title">Síguenos en redes</h2><div class="social-cards">${(D.social||[]).map(s=>`<a class="social-card social-${esc(s.id)}" href="${esc(s.url)}" ${external} aria-label="Fermat en ${esc(s.name)} (abre en una nueva pestaña)"><span class="social-logo">${socialIcon(s.id)}</span><span class="social-label"><strong>${esc(s.name)}</strong><small>${esc(s.handle)}</small></span>${icon()}</a>`).join('')}</div></section>`;}
+
   function pageHead(area,title,description){return `<div class="page-head wrap"><p class="page-breadcrumb"><a href="#inicio">Fermat</a> / ${area}</p><h1 class="reveal">${title}</h1><p class="reveal" style="--delay:90ms">${description}</p></div>`;}
   function home(){
     const huancapi=D.events.find(e=>e.id==='2026-huancapi');
@@ -47,7 +53,7 @@
     <section class="area-section contests-section wrap"><div class="contest-home-banner">${img(D.competitionCover,'La comunidad Fermat en un encuentro de concursos','contest-backdrop',false,'100vw')}<div class="contest-home-copy"><span class="eyebrow">Concursos Fermat / 02</span><h2>El reto<br>nos reúne.</h2><p>Matemática, Comunicación y la emoción de dar lo mejor. Encuentra tu sede y forma parte de la experiencia.</p>${btn('Explora los concursos','#concursos','lime')}<a class="photo-shortcut" href="#concursos?galeria=1">Conoce nuestros encuentros ${icon('right')}</a></div><div class="next-meeting"><span>${TODAY<=huancapi.date?'Próximo encuentro':'Encuentro Fermat'}</span><strong>Huancapi · 2026</strong><p>24 de octubre · Colegio Basilio Auqui</p><button class="text-link" data-event="${huancapi.id}">Ver esta edición ${icon()}</button></div></div></section>
     <section class="area-section editorial-section wrap"><div class="area-panel"><div class="area-copy"><span class="eyebrow">Editorial Fermat / 03</span><h2>Más páginas.<br>Más posibilidades.</h2><p>Los retos de nuestros concursos, reunidos en colecciones que invitan a seguir aprendiendo.</p><div class="subject-pills"><span>Matemática</span><span>Comunicación</span></div>${btn('Explora los libros','#editorial')}<span class="area-footnote">Inicial, primaria y secundaria. Un libro para tu grado.</span></div><div class="editorial-display">${[D.books[4],D.books[1]].map(b=>`<button data-book="${b.id}" aria-label="Ampliar colección de ${b.subject}, ${b.level}">${img(b.image,`Colección de ${b.subject}, ${b.level}`)}</button>`).join('')}<span class="display-caption">Lleva el conocimiento contigo.</span></div></div></section>
     <section class="home-practice wrap"><div class="practice-inner"><span class="practice-icon">${icon('book')}</span><div><span class="eyebrow">Un poco cada día</span><h2>Practica tu próximo logro.</h2><p>Un examen por grado y curso de nuestras primeras ediciones.</p></div>${btn('Exámenes modelo','#modelos','soft')}</div></section>
-    ${photoGallery(true)}${community()}${faq()}${contact(false)}`;
+    ${photoGallery(true)}${community()}${socialSection()}${faq()}${contact(false)}`;
   }
 
   function albumCards(albums){
@@ -194,7 +200,7 @@
     if(el.dataset.photoIndex!==undefined){changePhoto(Number(el.dataset.photoIndex));return;}
     if(el.dataset.event){eventModal(el.dataset.event);return;}
     if(el.dataset.academy){galleryModal(D.academy.find(a=>a.id===el.dataset.academy));return;}
-    if(el.dataset.book){const b=D.books.find(b=>b.id===el.dataset.book);galleryModal({name:`${b.subject} · ${b.level}`,year:'Catálogo',images:[b.image]});return;}
+    if(el.dataset.book){const b=D.books.find(b=>b.id===el.dataset.book);galleryModal({name:`${b.subject} · ${b.level}`,year:'Catálogo',images:b.images||[b.image]});return;}
     if(el.dataset.gallerySrc){const selected=dialog.querySelector('.gallery-selected');selected.src=el.dataset.gallerySrc;const meta=D.media?.[el.dataset.gallerySrc];if(meta){selected.srcset=meta.srcset;selected.width=meta.width;selected.height=meta.height;}else selected.removeAttribute('srcset');dialog.querySelector('.gallery-download').download='Fermat-'+el.dataset.galleryName+el.dataset.gallerySrc.slice(el.dataset.gallerySrc.lastIndexOf('.'));dialog.querySelector('.gallery-selected').alt=el.dataset.galleryName;dialog.querySelector('.gallery-download').href=el.dataset.gallerySrc;dialog.querySelectorAll('[data-gallery-src]').forEach(b=>b.setAttribute('aria-pressed',String(b===el)));return;}
     const act=el.dataset.action,val=el.dataset.value;
     if(act==='academy-year')state.academyYear=Number(val);
@@ -225,7 +231,7 @@
     main.classList.toggle('is-updating',!scroll&&main.childElementCount>0);
     const raw=location.hash.slice(1)||'inicio';const [route,query]=raw.split('?');
     if(route==='caminos'||route==='preguntas'){if(!document.getElementById(route)){main.innerHTML=home();bind();}requestAnimationFrame(()=>document.getElementById(route)?.scrollIntoView());return;}
-    if(query&&new URLSearchParams(query).get('programa')==='COAR')state.academyType='COAR';
+    if(route==='academia'&&query&&(scroll||!main.childElementCount)&&new URLSearchParams(query).get('programa')==='COAR')state.academyType='COAR';
     if(route==='concursos'&&query){const year=Number(new URLSearchParams(query).get('ano'));if(competitionYears.includes(year))state.eventYear=year;}
     observer.disconnect();
     const pages={inicio:home,academia:academy,concursos:competitions,editorial,modelos:models,contacto:()=>contact(true)};

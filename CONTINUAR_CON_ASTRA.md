@@ -1,5 +1,11 @@
 # Continuidad para Astra · Web Fermat
 
+## Última revisión · Facebook y redes · publicación autorizada
+
+El usuario pidió aprovechar únicamente las publicaciones públicas disponibles y revisar los cambios localmente. Tras solicitar la versión simplificada y recibir su vista previa, autorizó expresamente publicarla. El destino sigue siendo `https://acad-fermat.github.io/`, en el repositorio `Acad-Fermat/Acad-Fermat.github.io`.
+
+Corrección posterior del usuario: conservar el diseño y la información anteriores, actualizar solo los flyers y añadir Facebook y TikTok dentro de cuadros transparentes con sus logos en la página principal. Se retiraron las novedades, textos, horarios e inscripción añadidos. Se mantienen seis imágenes optimizadas dentro de las fichas existentes: afiches de Huancapi, San Miguel y Santa Rosa 2026 y catálogos de Comunicación de inicial, primaria y secundaria. Las redes aparecen únicamente en dos tarjetas de portada. Leer `FUENTES_FACEBOOK.md` y la primera sección de `VERIFICACION.md`.
+
 ## Revisión del 21/10/2026 · publicación autorizada
 
 El usuario pidió renovar la portada, añadir modo oscuro, reemplazar los dos logos e integrar las fotos de `FOTOS PARA  WEB`. Tras recibir la vista local, autorizó expresamente subir esta revisión a GitHub de Acad-Fermat y actualizar la web principal. El destino se conserva: `https://acad-fermat.github.io/`, con fuentes en `main` y publicación en `gh-pages`.
