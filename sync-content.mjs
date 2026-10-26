@@ -5,3 +5,4 @@ for(const field of ['events','academy','models','books','news','gallery','diplom
 if(!data.contact?.whatsapp||!data.mascot)throw new Error('Falta el contacto o la mascota');
 writeFileSync(new URL('./dist/contenido.js',import.meta.url),'window.FERMAT_CONTENT = '+JSON.stringify(data)+';\n');
 console.log('Contenido validado y sincronizado.');
+await import('./scripts/build-routes.mjs');

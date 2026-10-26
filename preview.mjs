@@ -6,7 +6,7 @@ import {resolve,relative,isAbsolute,extname,join} from 'node:path';
 const root=fileURLToPath(new URL('./dist/',import.meta.url));
 const port=Number(process.argv[2]||4173);
 if(!Number.isInteger(port)||port<1||port>65535)throw new Error('Indica un puerto válido. Ejemplo: node preview.mjs 4174');
-const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.pdf':'application/pdf','.woff2':'font/woff2'};
+const types={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.svg':'image/svg+xml','.jpg':'image/jpeg','.jpeg':'image/jpeg','.png':'image/png','.webp':'image/webp','.zip':'application/zip','.pdf':'application/pdf','.woff2':'font/woff2'};
 const server=createServer((req,res)=>{
   try{
     let path=resolve(root,'.'+decodeURIComponent(new URL(req.url,'http://localhost').pathname));

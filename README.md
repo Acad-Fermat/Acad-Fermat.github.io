@@ -1,5 +1,9 @@
 # Corporación Educativa Fermat
 
+Enlaces directos por sede, resultados y galería: ver [ENLACES_DIRECTOS.md](ENLACES_DIRECTOS.md). Implementados y verificados localmente; pendientes de publicación.
+
+Actualización local del 26/10/2026: Huancapi incorpora 53 fotos optimizadas, descarga individual y ZIP, dos PDF finales y agradecimiento discreto. Ver [HUANCAPI_2026.md](HUANCAPI_2026.md). Totales actuales: 80 resultados y 519 fotos en 9 álbumes. Pendiente de publicación.
+
 Academia, Concursos y Editorial Fermat. Sitio estático en español con afiches, resultados, catálogos y exámenes modelo.
 
 Web principal: https://acad-fermat.github.io/

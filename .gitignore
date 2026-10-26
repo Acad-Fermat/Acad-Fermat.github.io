@@ -3,6 +3,7 @@ research/
 .playwright-mcp/
 *.tar.gz
 *.zip
+!dist/assets/huancapi-2026/Fermat-Huancapi-2026-fotografias.zip
 __pycache__/
 
 # Archivo de trabajo local y procedencias; no forman parte del sitio público.

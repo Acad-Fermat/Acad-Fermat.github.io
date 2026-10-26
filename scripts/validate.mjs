@@ -33,11 +33,25 @@ function scan(value) {
   else if (value && typeof value === 'object') Object.values(value).forEach(scan);
 }
 scan(data);
+const routes=JSON.parse(readFileSync(resolve(root,'routes.json'),'utf8'));
+assert.equal(new Set(routes).size,routes.length,'Enlaces directos repetidos');
+assert.equal(routes.length,data.events.length*2+data.photoAlbums.length,'Faltan enlaces de sedes, resultados o fotos');
+for(const route of routes){
+  assert(/^concursos\d{4}\/[a-z0-9-]+\/(?:fotos\/|resultados\/)?index\.html$/.test(route),'Enlace directo inválido');
+  const html=readFileSync(resolve(root,route),'utf8');
+  assert(html.includes('<base href="/">'),`Recursos relativos sin raíz en ${route}`);
+  assert(html.includes(`https://acad-fermat.github.io/${route.replace(/index\.html$/,'')}`),`URL canónica incorrecta en ${route}`);
+}
+const albumArchives = new Map((data.photoAlbums || []).filter(a=>a.archive).map(a=>[a.archive.file,a.archive]));
+for (const [path, archive] of albumArchives) {
+  assert(path.endsWith('.zip'), 'El álbum descargable debe ser ZIP');
+  assert.equal(statSync(resolve(root,path)).size,archive.bytes,'Peso del ZIP desactualizado');
+}
 for (const path of assets) {
   const absolute = resolve(root,path), local = relative(root,absolute);
   assert(!local.startsWith('..') && !isAbsolute(local), 'Ruta fuera de dist');
   assert(existsSync(absolute),`Falta ${path}`);
-  assert(statSync(absolute).size < 25*1024*1024, `Recurso demasiado grande: ${path}`);
+  assert(statSync(absolute).size < (albumArchives.has(path)?100:25)*1024*1024, `Recurso demasiado grande: ${path}`);
 }
 if (data.photoAlbums) {
   assert.equal(new Set(data.photoAlbums.map(a=>a.id)).size,data.photoAlbums.length,'Galerías repetidas');

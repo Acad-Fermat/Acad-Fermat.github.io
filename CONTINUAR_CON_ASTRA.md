@@ -1,5 +1,9 @@
 # Continuidad para Astra · Web Fermat
 
+Enlaces directos añadidos localmente el 26/10/2026: sedes, resultados y fotos por año. Ver [ENLACES_DIRECTOS.md](ENLACES_DIRECTOS.md). `node sync-content.mjs` también genera sus páginas HTML; ejecutarlo al modificar la plantilla `dist/index.html`. Pendientes de publicación.
+
+Actualización local del 26/10/2026: Huancapi incorpora 53 fotos optimizadas, descarga individual y ZIP, dos PDF finales y agradecimiento discreto. Ver [HUANCAPI_2026.md](HUANCAPI_2026.md). Totales actuales: 80 resultados y 519 fotos en 9 álbumes. Pendiente de publicación.
+
 ## Última revisión · Facebook y redes · publicación autorizada
 
 El usuario pidió aprovechar únicamente las publicaciones públicas disponibles y revisar los cambios localmente. Tras solicitar la versión simplificada y recibir su vista previa, autorizó expresamente publicarla. El destino sigue siendo `https://acad-fermat.github.io/`, en el repositorio `Acad-Fermat/Acad-Fermat.github.io`.

@@ -1,5 +1,7 @@
 # Verificación
 
+Actualización local del 26/10/2026: Huancapi incorpora 53 fotos optimizadas, descarga individual y ZIP, dos PDF finales y agradecimiento discreto. Ver [HUANCAPI_2026.md](HUANCAPI_2026.md). Totales actuales: 80 resultados y 519 fotos en 9 álbumes. Pendiente de publicación.
+
 ## Flyers y redes · versión simplificada · 21/10/2026 · publicación autorizada
 
 - Seis imágenes públicas de Facebook exportadas desde recursos ya cargados: tres afiches de concursos y tres catálogos de Comunicación. Se utilizaron únicamente publicaciones públicas disponibles, sin iniciar sesión. Procedencia documentada en `FUENTES_FACEBOOK.md`.

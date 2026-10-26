@@ -40,6 +40,8 @@ function collect(value) {
   else if (value && typeof value==='object') Object.values(value).forEach(collect);
 }
 collect(data);
+const routes=JSON.parse(await readFile(resolve(output,'routes.json'),'utf8'));
+routes.forEach(file=>files.add(file));
 for (const file of git(['ls-files','-z'],checkout).split('\0').filter(Boolean)) {
   if (!files.has(file)) {
     const target = resolve(checkout,file);

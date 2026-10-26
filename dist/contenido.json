@@ -389,11 +389,25 @@
           "kind": "Temario",
           "name": "TEMARIO FERMAT HUANCAPI 2026",
           "file": "assets/b23eda6fccc908f4.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión lectora · resultados finales Huancapi 2026",
+          "file": "assets/huancapi-2026/resultados-comprension-lectora-huancapi-2026.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · resultados finales Huancapi 2026",
+          "file": "assets/huancapi-2026/resultados-matematica-huancapi-2026.pdf"
         }
       ],
       "posterAlternatives": [
         "assets/web/catalogo-a17d231cb6cc9edb-1900.webp"
-      ]
+      ],
+      "thankYou": {
+        "title": "¡Gracias, Huancapi!",
+        "text": "A estudiantes, familias, docentes e instituciones educativas: gracias por su participación y por hacer de este encuentro una experiencia de aprendizaje, esfuerzo y compañerismo."
+      }
     },
     {
       "id": "2026-san-miguel",
@@ -1935,6 +1949,337 @@
   },
   "competitionCover": "assets/web/portada-concursos-1920.webp",
   "photoAlbums": [
+    {
+      "id": "2026-huancapi",
+      "eventId": "2026-huancapi",
+      "name": "Huancapi",
+      "year": 2026,
+      "photos": [
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-39.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 39",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-39.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-39.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-01.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 1",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-01.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-01.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-02.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 2",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-02.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-02.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-03.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 3",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-03.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-03.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-04.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 4",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-04.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-04.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-05.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 5",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-05.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-05.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-06.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 6",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-06.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-06.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-07.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 7",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-07.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-07.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-08.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 8",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-08.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-08.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-09.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 9",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-09.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-09.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-10.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 10",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-10.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-10.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-11.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 11",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-11.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-11.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-12.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 12",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-12.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-12.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-13.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 13",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-13.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-13.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-14.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 14",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-14.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-14.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-15.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 15",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-15.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-15.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-16.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 16",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-16.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-16.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-17.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 17",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-17.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-17.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-18.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 18",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-18.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-18.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-19.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 19",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-19.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-19.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-20.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 20",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-20.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-20.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-21.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 21",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-21.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-21.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-22.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 22",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-22.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-22.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-23.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 23",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-23.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-23.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-24.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 24",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-24.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-24.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-25.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 25",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-25.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-25.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-26.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 26",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-26.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-26.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-27.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 27",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-27.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-27.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-28.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 28",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-28.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-28.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-29.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 29",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-29.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-29.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-30.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 30",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-30.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-30.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-31.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 31",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-31.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-31.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-32.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 32",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-32.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-32.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-33.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 33",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-33.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-33.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-34.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 34",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-34.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-34.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-35.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 35",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-35.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-35.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-36.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 36",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-36.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-36.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-37.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 37",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-37.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-37.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-38.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 38",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-38.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-38.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-40.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 40",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-40.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-40.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-41.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 41",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-41.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-41.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-42.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 42",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-42.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-42.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-43.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 43",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-43.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-43.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-44.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 44",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-44.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-44.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-45.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 45",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-45.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-45.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-46.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 46",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-46.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-46.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-47.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 47",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-47.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-47.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-48.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 48",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-48.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-48.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-49.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 49",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-49.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-49.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-50.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 50",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-50.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-50.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-51.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 51",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-51.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-51.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-52.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 52",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-52.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-52.jpg"
+        },
+        {
+          "image": "assets/huancapi-2026/fermat-huancapi-2026-53.webp",
+          "caption": "Encuentro Fermat · Huancapi 2026 · Fotografía 53",
+          "download": "assets/huancapi-2026/fermat-huancapi-2026-53.jpg",
+          "downloadFilename": "Fermat-Huancapi-2026-53.jpg"
+        }
+      ],
+      "archive": {
+        "file": "assets/huancapi-2026/Fermat-Huancapi-2026-fotografias.zip",
+        "bytes": 45180181,
+        "filename": "Fermat-Huancapi-2026-fotografias.zip"
+      }
+    },
     {
       "id": "2026-ccaccamarca",
       "name": "Ccaccamarca",
@@ -7252,6 +7597,324 @@
       "height": 590,
       "thumb": "assets/social/comunicacion-secundaria-2026-320.webp",
       "srcset": "assets/social/comunicacion-secundaria-2026-320.webp 320w, assets/social/comunicacion-secundaria-2026-1600.webp 590w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-01.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-01-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-01-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-01.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-02.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-02-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-02-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-02.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-03.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-03-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-03-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-03.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-04.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-04-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-04-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-04.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-05.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-05-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-05-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-05.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-06.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-06-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-06-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-06.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-07.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-07-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-07-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-07.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-08.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-08-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-08-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-08.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-09.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-09-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-09-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-09.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-10.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-10-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-10-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-10.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-11.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-11-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-11-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-11.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-12.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-12-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-12-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-12.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-13.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-13-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-13-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-13.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-14.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-14-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-14-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-14.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-15.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-15-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-15-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-15.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-16.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-16-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-16-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-16.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-17.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-17-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-17-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-17.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-18.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-18-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-18-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-18.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-19.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-19-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-19-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-19.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-20.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-20-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-20-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-20.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-21.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-21-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-21-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-21.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-22.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-22-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-22-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-22.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-23.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-23-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-23-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-23.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-24.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-24-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-24-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-24.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-25.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-25-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-25-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-25.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-26.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-26-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-26-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-26.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-27.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-27-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-27-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-27.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-28.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-28-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-28-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-28.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-29.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-29-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-29-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-29.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-30.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-30-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-30-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-30.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-31.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-31-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-31-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-31.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-32.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-32-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-32-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-32.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-33.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-33-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-33-480.webp 361w, assets/huancapi-2026/fermat-huancapi-2026-33.webp 1205w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-34.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-34-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-34-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-34.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-35.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-35-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-35-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-35.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-36.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-36-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-36-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-36.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-37.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-37-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-37-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-37.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-38.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-38-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-38-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-38.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-39.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-39-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-39-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-39.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-40.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-40-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-40-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-40.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-41.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-41-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-41-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-41.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-42.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-42-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-42-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-42.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-43.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-43-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-43-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-43.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-44.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-44-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-44-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-44.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-45.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-45-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-45-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-45.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-46.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-46-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-46-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-46.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-47.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-47-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-47-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-47.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-48.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-48-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-48-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-48.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-49.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-49-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-49-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-49.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-50.webp": {
+      "width": 1600,
+      "height": 1200,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-50-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-50-480.webp 480w, assets/huancapi-2026/fermat-huancapi-2026-50.webp 1600w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-51.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-51-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-51-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-51.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-52.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-52-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-52-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-52.webp 1200w"
+    },
+    "assets/huancapi-2026/fermat-huancapi-2026-53.webp": {
+      "width": 1200,
+      "height": 1600,
+      "thumb": "assets/huancapi-2026/fermat-huancapi-2026-53-480.webp",
+      "srcset": "assets/huancapi-2026/fermat-huancapi-2026-53-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-53.webp 1200w"
     }
   },
   "social": [
