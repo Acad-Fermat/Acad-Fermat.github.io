@@ -449,3 +449,16 @@ html[data-theme=dark] .social-card { background: linear-gradient(125deg,#ffffff0
 @media(max-width:580px) { .social-section { padding-block: 25px 30px; }.social-section h2 { font-size: 25px; margin-bottom: 17px; }.social-cards { grid-template-columns: 1fr; gap: 14px; }.social-card { padding: 22px 24px; border-radius: 22px; } }
 @media(prefers-reduced-motion:reduce) { .social-card { transition: none; } }
 @media(forced-colors:active) { .social-card { border: 1px solid; } }
+.event-thanks{margin:0 0 22px;padding:15px 18px;border-radius:16px;background:var(--mint);font-size:14px;line-height:1.65}
+.event-thanks strong{font-weight:650}
+.photo-downloads{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:0 0 16px}
+.photo-downloads .btn{min-height:44px;font-size:13px;background:#e6efdf;color:#15345f;padding:11px 18px}
+.photo-downloads .album-download{background:#253a4c;color:#edf3f7}
+.photo-downloads .btn:hover{background:#d4e6c8;color:#15345f}
+@media(max-width:580px){.photo-downloads .btn{flex:1 1 auto;justify-content:center}.event-thanks{padding:13px 15px}}
+.share-links{display:flex;align-items:center;flex-wrap:wrap;gap:10px 20px;margin:8px 0 18px}
+.share-links button{font:inherit;font-size:13px;cursor:pointer;border:0;background:transparent;padding:8px 0;text-align:left}
+.share-links .share-status{font-size:12px}
+.share-status input{width:min(100%,360px);font:inherit;padding:8px}
+.photo-viewer .share-links{margin:8px 0 0;color:#edf3f7}
+.photo-viewer .share-links button{color:#e6efdf}

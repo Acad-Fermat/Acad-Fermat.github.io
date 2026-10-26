@@ -122,10 +122,34 @@
   ].map(([q,a],i)=>`<details class="scroll-reveal" ${i===0?'open':''}><summary>${q}</summary><p>${a}</p></details>`).join('')}</div></section>`;}
   function contact(page){return `<section class="contact-section wrap" id="contacto"><div class="contact-card"><div><${page?'h1':'h2'} class="scroll-reveal">Tu próximo paso<br>empieza aquí.</${page?'h1':'h2'}><p class="scroll-reveal">Cuéntanos qué estás buscando. Te orientamos para elegir tu ciclo, participar en un concurso o encontrar tus libros.</p><div class="contact-data scroll-reveal"><a href="tel:+51900926590">+51 900 926 590</a><span>${esc(D.contact.address)}<br>${esc(D.contact.city)}</span></div></div><form id="contact-form"><div><label for="contact-name">Tu nombre</label><input id="contact-name" name="name" placeholder="¿Cómo te llamas?" maxlength="100" required autocomplete="name"></div><div><label for="contact-interest">Me interesa</label><select id="contact-interest" name="interest"><option>Academia Fermat</option><option>Preparación COAR</option><option>Preparación preuniversitaria</option><option>Concursos Fermat</option><option>Editorial Fermat</option></select></div><div><label for="contact-message">Tu consulta</label><textarea id="contact-message" name="message" placeholder="Cuéntanos un poco más…" maxlength="1500" required></textarea></div><button class="btn" type="submit">Continuar en WhatsApp ${icon()}</button><p class="note">Se abrirá WhatsApp con tu mensaje. Podrás revisarlo antes de enviarlo.</p></form></div></section>`;}
 
+  const eventPath = event => `/concursos${event.year}/${event.id.replace(/^\d{4}-/,'')}`;
+  function directRoute(){
+    if(location.hash)return null;
+    const match=location.pathname.match(/^\/concursos(\d{4})\/([a-z0-9-]+)(?:\/(fotos|resultados))?\/?$/);
+    if(!match)return null;
+    const event=D.events.find(e=>e.year===Number(match[1])&&eventPath(e)===`/concursos${match[1]}/${match[2]}`);
+    return event?{event,section:match[3]||''}:null;
+  }
+  function setDirectPath(path){if(location.pathname!==path||location.hash)history.pushState(null,'',path);}
+  function shareLinks(event,photos=false){
+    const base=eventPath(event),album=D.photoAlbums?.find(a=>(a.eventId||a.id)===event.id);
+    return `<div class="share-links" aria-label="Compartir ${esc(event.name)}"><button class="text-link" data-copy-url="${base}${photos?'/fotos':''}">${icon('arrow')} Copiar enlace${photos?' de fotos':' de sede'}</button>${album&&!photos?`<button class="text-link" data-copy-url="${base}/fotos">Copiar enlace de fotos ${icon()}</button>`:''}<span class="share-status" role="status" aria-live="polite"></span></div>`;
+  }
+  async function copyDirectLink(button){
+    const url=new URL(button.dataset.copyUrl,location.origin).href;
+    const status=button.closest('.share-links').querySelector('.share-status');
+    try{await navigator.clipboard.writeText(url);status.textContent='Enlace copiado';}
+    catch{
+      // Campo seleccionable para navegadores sin permiso de portapapeles.
+      const input=document.createElement('input');input.value=url;input.readOnly=true;input.setAttribute('aria-label','Enlace para compartir');status.replaceChildren(input);input.focus();input.select();
+    }
+  }
   let photoState=null;
   function openPhotoAlbum(id){
     const album=D.photoAlbums?.find(a=>a.id===id);if(!album?.photos.length)return;
-    showModal(`<div class="photo-viewer"><header class="photo-viewer-heading"><span class="eyebrow">Encuentros Fermat · ${album.year}</span><h2 id="dialog-title">${esc(album.name)}</h2><p>Recorre los momentos de esta sede.</p></header><div class="photo-stage"><button class="photo-prev" data-photo-step="-1" aria-label="Fotografía anterior">‹</button><img class="photo-selected" alt="" decoding="async"><button class="photo-next" data-photo-step="1" aria-label="Fotografía siguiente">›</button></div><div class="photo-info"><p class="photo-caption"></p><span class="photo-counter" role="status" aria-live="polite" aria-atomic="true"></span></div><div class="photo-thumbnails" role="group" aria-label="Elegir fotografía"></div><p class="photo-keyboard-hint">Usa las flechas del teclado o desliza la imagen. Esc para cerrar.</p></div>`);
+    const event=D.events.find(e=>e.id===(album.eventId||album.id));
+    if(event)setDirectPath(eventPath(event)+'/fotos');
+    showModal(`<div class="photo-viewer"><header class="photo-viewer-heading"><span class="eyebrow">Encuentros Fermat · ${album.year}</span><h2 id="dialog-title">${esc(album.name)}</h2><p>Recorre los momentos de esta sede.</p>${event?shareLinks(event,true):''}</header><div class="photo-stage"><button class="photo-prev" data-photo-step="-1" aria-label="Fotografía anterior">‹</button><img class="photo-selected" alt="" decoding="async"><button class="photo-next" data-photo-step="1" aria-label="Fotografía siguiente">›</button></div><div class="photo-info"><p class="photo-caption"></p><span class="photo-counter" role="status" aria-live="polite" aria-atomic="true"></span></div><div class="photo-downloads"><a class="btn photo-download" download>Descargar foto ${icon('download')}</a>${album.archive?`<a class="btn album-download" href="${esc(album.archive.file)}" download="${esc(album.archive.filename)}">Descargar álbum · ZIP ${(album.archive.bytes/1024/1024).toFixed(1)} MB ${icon('download')}</a>`:''}</div><div class="photo-thumbnails" role="group" aria-label="Elegir fotografía"></div><p class="photo-keyboard-hint">Usa las flechas del teclado o desliza la imagen. Esc para cerrar.</p></div>`);
     photoState={album,index:0};dialog.classList.add('photo-dialog');dialog.scrollTop=0;
     const selected=dialog.querySelector('.photo-selected');let touchStart=null;
     selected.addEventListener('pointerdown',e=>{if(e.pointerType==='touch')touchStart={x:e.clientX,y:e.clientY}});
@@ -140,6 +164,9 @@
     const photo=album.photos[index],m=D.media[photo.image],selected=dialog.querySelector('.photo-selected');
     selected.src=photo.image;selected.srcset=m.srcset;selected.sizes='(max-width: 580px) 92vw, 1100px';selected.alt=photo.caption;
     selected.width=m.width;selected.height=m.height;
+    const download=dialog.querySelector('.photo-download');
+    download.href=photo.download||photo.image;download.download=photo.downloadFilename||`Fermat-${album.name}-${album.year}-${index+1}.webp`;
+    download.setAttribute('aria-label',`Descargar fotografía ${index+1} de ${album.name}`);
     dialog.querySelector('.photo-caption').textContent=`Encuentro Fermat · ${album.name} ${album.year}`;
     dialog.querySelector('.photo-counter').textContent=`${index+1} de ${total}`;
     const focusInThumbnails=document.activeElement?.hasAttribute('data-photo-index');
@@ -151,14 +178,21 @@
   }
   function showModal(html){photoState=null;dialog.classList.remove('photo-dialog');dialogBody.innerHTML=html;if(!dialog.open)dialog.showModal();document.body.style.overflow='hidden';}
   function closeModal(){dialog.close();document.body.style.overflow='';}
+  function leaveDirectRoute(){
+    if(dialog.open)return;
+    const route=directRoute();if(!route)return;
+    history.pushState(null,'',`/#concursos?ano=${route.event.year}`);render(false);
+  }
+  dialog.addEventListener('close',leaveDirectRoute);
   dialog.addEventListener('close',()=>{document.body.style.overflow='';photoState=null;dialog.classList.remove('photo-dialog');});
   document.querySelector('.dialog-close').addEventListener('click',closeModal);
   dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeModal();}});
   function eventModal(id){
     const e=D.events.find(e=>e.id===id);if(!e)return;
-    const showResults=location.hash.startsWith('#concursos')&&state.eventTab==='Resultados';
-    const docs=location.hash.startsWith('#concursos')?eventDocuments(e):e.documents;
-    showModal(`<div class="dialog-content"><h2 id="dialog-title">${esc(e.name)} · ${e.year}</h2><div class="dialog-event">${e.poster?`<a href="${e.poster}" ${external}>${img(e.poster,`Afiche completo ${e.name} ${e.year}`)}</a>`:`<div class="placeholder-mark">${img(D.brand.logo,'Fermat')}</div>`}<div class="dialog-details"><p><strong>${eventDate(e)}</strong>${e.edition?' · '+esc(e.edition):''}</p>${e.venue?`<p>${esc(e.venue)}</p>`:''}<p>Matemática y Comunicación<br>Inicial · Primaria · Secundaria</p>${e.poster?`<a class="text-link" href="${e.poster}" download="Afiche-Fermat-${e.name}-${e.year}${e.poster.slice(e.poster.lastIndexOf('.'))}">Descargar afiche ${icon('download')}</a>`:''}${D.photoAlbums?.some(a=>(a.eventId||a.id)===e.id)?`<button class="btn soft event-photos" data-album="${D.photoAlbums.find(a=>(a.eventId||a.id)===e.id).id}">Fotografías de esta sede ${icon()}</button>`:''}<h3>${showResults?'Resultados publicados':'Documentos de esta sede'}</h3>${e.archiveNote?`<p class="note">${esc(e.archiveNote)}</p>`:''}${e.resultsNote?`<p class="note">${esc(e.resultsNote)}</p>`:''}${docs.length?docs.map(d=>`<div class="document-row"><div class="doc-title"><strong>${esc(d.kind)}</strong><small>${esc(d.name.replace(/_/g,' '))}</small>${d.note?`<small>${esc(d.note)}</small>`:''}</div><div class="document-actions"><a href="${d.file}" ${external} aria-label="Ver ${esc(d.kind)} de ${esc(e.name)}">Ver ↗</a><a href="${d.file}" download="${esc(d.name)}${d.file.slice(d.file.lastIndexOf('.'))}" aria-label="Descargar ${esc(d.kind)} de ${esc(e.name)}">${icon('download')}</a></div></div>`).join(''):'<p class="note">No hay documentos publicados en esta categoría. Consulta a nuestro equipo.</p>'}${btn('Consultar esta sede',wa(`Hola Fermat, quisiera información sobre el concurso de ${e.name} ${e.year}.`),'',true)}</div></div></div>`);
+    setDirectPath(eventPath(e)+(state.eventTab==='Resultados'?'/resultados':''));
+    const showResults=state.eventTab==='Resultados';
+    const docs=eventDocuments(e);
+    showModal(`<div class="dialog-content"><h2 id="dialog-title">${esc(e.name)} · ${e.year}</h2>${shareLinks(e)}${e.thankYou?`<p class="event-thanks"><strong>${esc(e.thankYou.title)}</strong> ${esc(e.thankYou.text)}</p>`:''}<div class="dialog-event">${e.poster?`<a href="${e.poster}" ${external}>${img(e.poster,`Afiche completo ${e.name} ${e.year}`)}</a>`:`<div class="placeholder-mark">${img(D.brand.logo,'Fermat')}</div>`}<div class="dialog-details"><p><strong>${eventDate(e)}</strong>${e.edition?' · '+esc(e.edition):''}</p>${e.venue?`<p>${esc(e.venue)}</p>`:''}<p>Matemática y Comunicación<br>Inicial · Primaria · Secundaria</p>${e.poster?`<a class="text-link" href="${e.poster}" download="Afiche-Fermat-${e.name}-${e.year}${e.poster.slice(e.poster.lastIndexOf('.'))}">Descargar afiche ${icon('download')}</a>`:''}${D.photoAlbums?.some(a=>(a.eventId||a.id)===e.id)?`<button class="btn soft event-photos" data-album="${D.photoAlbums.find(a=>(a.eventId||a.id)===e.id).id}">Fotografías de esta sede ${icon()}</button>`:''}<h3>${showResults?'Resultados publicados':'Documentos de esta sede'}</h3>${e.archiveNote?`<p class="note">${esc(e.archiveNote)}</p>`:''}${e.resultsNote?`<p class="note">${esc(e.resultsNote)}</p>`:''}${docs.length?docs.map(d=>`<div class="document-row"><div class="doc-title"><strong>${esc(d.kind)}</strong><small>${esc(d.name.replace(/_/g,' '))}</small>${d.note?`<small>${esc(d.note)}</small>`:''}</div><div class="document-actions"><a href="${d.file}" ${external} aria-label="Ver ${esc(d.kind)} de ${esc(e.name)}">Ver ↗</a><a href="${d.file}" download="${esc(d.name)}${d.file.slice(d.file.lastIndexOf('.'))}" aria-label="Descargar ${esc(d.kind)} de ${esc(e.name)}">${icon('download')}</a></div></div>`).join(''):'<p class="note">No hay documentos publicados en esta categoría. Consulta a nuestro equipo.</p>'}${btn('Consultar esta sede',wa(`Hola Fermat, quisiera información sobre el concurso de ${e.name} ${e.year}.`),'',true)}</div></div></div>`);
   }
   function galleryModal(a){
     showModal(`<div class="dialog-content"><h2 id="dialog-title">${esc(a.name)} · ${a.year}</h2><div class="gallery-view"><div class="gallery-main">${img(a.images[0],`Afiche ${a.name} ${a.year}`,'gallery-selected',false,'(max-width: 580px) 85vw, 650px')}<a class="btn gallery-download" href="${a.images[0]}" download="Fermat-${a.name}-${a.year}${a.images[0].slice(a.images[0].lastIndexOf('.'))}">Descargar imagen ${icon('download')}</a></div><div class="gallery-thumbs" role="group" aria-label="Elegir afiche">${a.images.map((src,i)=>`<button data-gallery-src="${src}" data-gallery-name="${esc(a.name)}" aria-label="Ver imagen ${i+1}" aria-pressed="${i===0}">${img(src,`Imagen ${i+1}`,'',false,'100px')}</button>`).join('')}</div></div></div>`);
@@ -193,6 +227,7 @@
   }
   const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('is-visible');observer.unobserve(e.target);}}),{threshold:.1});
   document.addEventListener('click',e=>{
+    const copy=e.target.closest('[data-copy-url]');if(copy){copyDirectLink(copy);return;}
     if(e.target.closest('a[href="#concursos?galeria=1"]')){state.photoYear='Todos';if(location.hash==='#concursos?galeria=1'){e.preventDefault();document.querySelector('#momentos').outerHTML=photoGallery();bindPhotoFilter();document.querySelector('#momentos').scrollIntoView({block:'start'});return;}}
     const el=e.target.closest('[data-action],[data-event],[data-academy],[data-book],[data-gallery-src],[data-album],[data-photo-step],[data-photo-index]');if(!el)return;
     if(el.dataset.album){openPhotoAlbum(el.dataset.album);return;}
@@ -229,7 +264,9 @@
   function render(scroll=true){
     closeMenu();
     main.classList.toggle('is-updating',!scroll&&main.childElementCount>0);
-    const raw=location.hash.slice(1)||'inicio';const [route,query]=raw.split('?');
+    const direct=directRoute();
+    if(direct){state.eventYear=direct.event.year;state.photoYear=String(direct.event.year);state.eventTab=direct.section==='resultados'?'Resultados':'Sedes y calendario';}
+    const raw=location.hash.slice(1)||(direct?`concursos?ano=${direct.event.year}`:'inicio');const [route,query]=raw.split('?');
     if(route==='caminos'||route==='preguntas'){if(!document.getElementById(route)){main.innerHTML=home();bind();}requestAnimationFrame(()=>document.getElementById(route)?.scrollIntoView());return;}
     if(route==='academia'&&query&&(scroll||!main.childElementCount)&&new URLSearchParams(query).get('programa')==='COAR')state.academyType='COAR';
     if(route==='concursos'&&query){const year=Number(new URLSearchParams(query).get('ano'));if(competitionYears.includes(year))state.eventYear=year;}
@@ -240,8 +277,16 @@
     document.title=(titles[route]?titles[route]+' Fermat':'Fermat')+' · Aprende, compite y crece';
     document.querySelectorAll('#navigation a').forEach(a=>{if(a.hash==='#'+route)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});
     menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Abrir menú');document.querySelector('#navigation').classList.remove('open');
-    bind();if(scroll&&route==='concursos'&&new URLSearchParams(query).get('galeria')){requestAnimationFrame(()=>document.querySelector('#momentos')?.scrollIntoView({block:'start'}));return;}if(scroll){window.scrollTo({top:0,behavior:'instant'});main.focus({preventScroll:true});}
+    bind();
+    if(direct){
+      const album=D.photoAlbums?.find(a=>(a.eventId||a.id)===direct.event.id);
+      if(direct.section==='fotos'&&album)openPhotoAlbum(album.id);else eventModal(direct.event.id);
+      document.title=`${direct.section==='fotos'?'Fotos · ':direct.section==='resultados'?'Resultados · ':''}${direct.event.name} ${direct.event.year} · Fermat`;
+      return;
+    }
+    if(scroll&&route==='concursos'&&new URLSearchParams(query).get('galeria')){requestAnimationFrame(()=>document.querySelector('#momentos')?.scrollIntoView({block:'start'}));return;}if(scroll){window.scrollTo({top:0,behavior:'instant'});main.focus({preventScroll:true});}
   }
+  window.addEventListener('popstate',()=>{if(dialog.open)closeModal();render();});
   window.addEventListener('hashchange',()=>{if(dialog.open)closeModal();if(location.hash==='#concursos?galeria=1')state.photoYear='Todos';render();});
   render(false);
 })();
