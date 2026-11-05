@@ -14,8 +14,10 @@ const ids = data.events.map(event => event.id);
 assert.equal(new Set(ids).size, ids.length, 'Hay identificadores de sede repetidos');
 for (const year of [2023,2024,2025,2026]) assert(data.events.some(event => event.year === year), `Falta ${year}`);
 const keys = data.models.map(model => `${model.level}/${model.grade}/${model.subject}`);
-assert.equal(new Set(keys).size, keys.length, 'Hay exámenes repetidos por grado y curso');
-assert.equal(keys.length, 28, 'Se esperan 14 grados/edades y dos cursos');
+const historicalKeys = data.models.filter(model => model.year !== 2026).map(model => `${model.level}/${model.grade}/${model.subject}`);
+assert.equal(new Set(historicalKeys).size, historicalKeys.length, 'Los modelos históricos deben ser únicos por grado y curso');
+assert.equal(historicalKeys.length, 28, 'Se esperan 28 modelos históricos');
+assert.equal(data.models.filter(model => model.year === 2026).length, 28, 'Se esperan 28 exámenes de práctica 2026');
 for (const subject of ['Matemática','Comunicación']) {
   for (const [level, grades] of [['Inicial',[3,4,5]],['Primaria',[1,2,3,4,5,6]],['Secundaria',[1,2,3,4,5]]]) {
     for (const grade of grades) assert(keys.includes(`${level}/${grade}/${subject}`), `Falta ${subject} ${level} ${grade}`);
