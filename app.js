@@ -27,7 +27,7 @@
     camera:'<path d="M8 6l2-3h4l2 3h4a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2z"/><circle cx="12" cy="13" r="4"/>',
     file:'<path d="M13 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V10zM13 3v7h7M8 14h8m-8 3h6"/>',
     results:'<path d="M5 20h14M7 16v-4m5 4V5m5 11V9"/>',
-    link:'<path d="m10 13 4-4m-6 6-1 1a3 3 0 0 1-4-4l4-4a3 3 0 0 1 4 0m2 0 2-2a3 3 0 0 1 4 4l-4 4a3 3 0 0 1-4 0" transform="translate(1 2)"/>',
+    heart:'<path d="M20.8 8.6c0 4.1-8.8 9.4-8.8 9.4S3.2 12.7 3.2 8.6a4.5 4.5 0 0 1 8.8-1 4.5 4.5 0 0 1 8.8 1Z"/>',
     chat:'<path d="M20 11.6a8 8 0 0 1-11.8 7L4 20l1.4-4.1A8 8 0 1 1 20 11.6Z"/><path d="M9 11h6m-6 3h4"/>',
     previous:'<path d="m15 5-7 7 7 7"/>',
     next:'<path d="m9 5 7 7-7 7"/>'
@@ -151,23 +151,11 @@
     return event?{event,section:match[3]||''}:null;
   }
   function setDirectPath(path){if(location.pathname!==path||location.hash)history.pushState(null,'',path);}
-  function shareLinks(event,photos=false){
-    const base=eventPath(event),album=D.photoAlbums?.find(a=>(a.eventId||a.id)===event.id);
-    const copyButton=(url,label)=>`<button type="button" class="resource-action" data-copy-url="${url}">${icon('link')} ${label}</button>`;
-    return `<div class="share-links" role="group" aria-label="Compartir ${esc(event.name)}">
-      ${photos?copyButton(base+'/fotos','Copiar enlace de fotos'):copyButton(base,'Copiar enlace de sede')}
-      ${album&&!photos?copyButton(base+'/fotos','Copiar enlace de fotos'):''}
-      <span class="share-status" role="status" aria-live="polite"></span>
+  function eventThanks(thanks){
+    return `<div class="event-thanks">
+      <span class="event-thanks-icon">${icon('heart')}</span>
+      <div><strong>${esc(thanks.title)}</strong><p>${esc(thanks.text)}</p></div>
     </div>`;
-  }
-  async function copyDirectLink(button){
-    const url=new URL(button.dataset.copyUrl,location.origin).href;
-    const status=button.closest('.share-links').querySelector('.share-status');
-    try{await navigator.clipboard.writeText(url);status.textContent='Enlace copiado';}
-    catch{
-      // Campo seleccionable para navegadores sin permiso de portapapeles.
-      const input=document.createElement('input');input.value=url;input.readOnly=true;input.setAttribute('aria-label','Enlace para compartir');status.replaceChildren(input);input.focus();input.select();
-    }
   }
   let photoState=null;
   function openPhotoAlbum(id){
@@ -175,13 +163,13 @@
     const event=D.events.find(e=>e.id===(album.eventId||album.id));
     if(event)setDirectPath(eventPath(event)+'/fotos');
     const intro=event?.thankYou
-      ? `<p class="photo-thanks"><strong>${esc(event.thankYou.title)}</strong> ${esc(event.thankYou.text)}</p>`
+      ? eventThanks(event.thankYou)
       : '<p>Recorre los momentos de esta sede.</p>';
     showModal(`<div class="photo-viewer">
       <header class="photo-viewer-heading">
         <span class="eyebrow">Encuentros Fermat · ${album.year}</span>
         <h2 id="dialog-title">${esc(album.name)}</h2>
-        ${intro}${event?shareLinks(event,true):''}
+        ${intro}
       </header>
       <div class="photo-stage">
         <img class="photo-selected" alt="" decoding="async">
@@ -277,7 +265,7 @@
         <span class="event-photos-label"><strong>Ver galería de fotos</strong><small>${album.photos.length} fotografías · ${esc(e.name)} ${e.year}</small></span>
         ${icon('right')}
       </button>`:''}
-      ${e.thankYou?`<p class="event-thanks"><strong>${esc(e.thankYou.title)}</strong> ${esc(e.thankYou.text)}</p>`:''}
+      ${e.thankYou?eventThanks(e.thankYou):''}
       <div class="dialog-event">
         <section class="dialog-details" aria-labelledby="event-docs-title">
           <h3 id="event-docs-title">${showResults?'Resultados del concurso':'Documentos de esta sede'}</h3>
@@ -293,7 +281,6 @@
         </aside>`:''}
       </div>
       <footer class="event-detail-footer">
-        ${shareLinks(e)}
         <a class="resource-action resource-action--contact" href="${wa(`Hola Fermat, quisiera información sobre el concurso de ${e.name} ${e.year}.`)}" ${external}>${icon('chat')} Consultar esta sede</a>
       </footer>
     </div>`,'event-dialog');
@@ -331,7 +318,6 @@
   }
   const observer=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('is-visible');observer.unobserve(e.target);}}),{threshold:.1});
   document.addEventListener('click',e=>{
-    const copy=e.target.closest('[data-copy-url]');if(copy){copyDirectLink(copy);return;}
     if(e.target.closest('a[href="#concursos?galeria=1"]')){state.photoYear='Todos';if(location.hash==='#concursos?galeria=1'){e.preventDefault();document.querySelector('#momentos').outerHTML=photoGallery();bindPhotoFilter();document.querySelector('#momentos').scrollIntoView({block:'start'});return;}}
     const el=e.target.closest('[data-action],[data-event],[data-academy],[data-book],[data-gallery-src],[data-album],[data-photo-step],[data-photo-index]');if(!el)return;
     if(el.dataset.album){openPhotoAlbum(el.dataset.album);return;}
