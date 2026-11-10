@@ -425,7 +425,11 @@
       ],
       "posterAlternatives": [
         "assets/web/catalogo-0f76558b14addb87-1900.webp"
-      ]
+      ],
+      "thankYou": {
+        "title": "¡Gracias, San Miguel!",
+        "text": "Gracias a los estudiantes por su esfuerzo y a las familias, docentes e instituciones educativas por acompañarlos. Nos alegra compartir con ustedes los momentos de esta premiación."
+      }
     },
     {
       "id": "2026-santa-rosa",
@@ -2173,6 +2177,949 @@
   },
   "competitionCover": "assets/web/portada-concursos-1920.webp",
   "photoAlbums": [
+    {
+      "id": "2026-san-miguel",
+      "eventId": "2026-san-miguel",
+      "name": "San Miguel",
+      "year": 2026,
+      "photos": [
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-001.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 1",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-001.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-001.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-002.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 2",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-002.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-002.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-003.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 3",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-003.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-003.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-004.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 4",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-004.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-004.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-005.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 5",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-005.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-005.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-006.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 6",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-006.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-006.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-007.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 7",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-007.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-007.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-008.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 8",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-008.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-008.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-009.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 9",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-009.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-009.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-010.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 10",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-010.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-010.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-011.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 11",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-011.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-011.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-012.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 12",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-012.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-012.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-013.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 13",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-013.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-013.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-014.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 14",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-014.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-014.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-015.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 15",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-015.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-015.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-016.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 16",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-016.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-016.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-017.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 17",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-017.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-017.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-018.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 18",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-018.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-018.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-019.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 19",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-019.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-019.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-020.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 20",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-020.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-020.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-021.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 21",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-021.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-021.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-022.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 22",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-022.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-022.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-023.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 23",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-023.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-023.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-024.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 24",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-024.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-024.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-025.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 25",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-025.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-025.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-026.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 26",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-026.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-026.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-027.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 27",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-027.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-027.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-028.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 28",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-028.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-028.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-029.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 29",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-029.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-029.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-030.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 30",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-030.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-030.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-031.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 31",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-031.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-031.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-032.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 32",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-032.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-032.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-033.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 33",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-033.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-033.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-034.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 34",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-034.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-034.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-035.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 35",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-035.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-035.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-036.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 36",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-036.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-036.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-037.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 37",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-037.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-037.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-038.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 38",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-038.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-038.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-039.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 39",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-039.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-039.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-040.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 40",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-040.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-040.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-041.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 41",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-041.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-041.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-042.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 42",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-042.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-042.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-043.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 43",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-043.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-043.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-044.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 44",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-044.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-044.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-045.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 45",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-045.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-045.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-046.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 46",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-046.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-046.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-047.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 47",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-047.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-047.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-048.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 48",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-048.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-048.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-049.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 49",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-049.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-049.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-050.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 50",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-050.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-050.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-051.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 51",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-051.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-051.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-052.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 52",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-052.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-052.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-053.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 53",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-053.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-053.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-054.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 54",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-054.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-054.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-055.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 55",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-055.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-055.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-056.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 56",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-056.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-056.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-057.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 57",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-057.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-057.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-058.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 58",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-058.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-058.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-059.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 59",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-059.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-059.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-060.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 60",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-060.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-060.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-061.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 61",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-061.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-061.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-062.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 62",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-062.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-062.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-063.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 63",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-063.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-063.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-064.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 64",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-064.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-064.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-065.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 65",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-065.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-065.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-066.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 66",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-066.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-066.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-067.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 67",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-067.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-067.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-068.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 68",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-068.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-068.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-069.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 69",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-069.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-069.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-070.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 70",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-070.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-070.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-071.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 71",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-071.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-071.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-072.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 72",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-072.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-072.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-073.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 73",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-073.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-073.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-074.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 74",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-074.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-074.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-075.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 75",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-075.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-075.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-076.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 76",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-076.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-076.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-077.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 77",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-077.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-077.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-078.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 78",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-078.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-078.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-079.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 79",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-079.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-079.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-080.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 80",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-080.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-080.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-081.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 81",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-081.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-081.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-082.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 82",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-082.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-082.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-083.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 83",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-083.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-083.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-084.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 84",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-084.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-084.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-085.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 85",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-085.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-085.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-086.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 86",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-086.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-086.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-087.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 87",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-087.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-087.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-088.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 88",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-088.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-088.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-089.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 89",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-089.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-089.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-090.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 90",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-090.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-090.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-091.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 91",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-091.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-091.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-092.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 92",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-092.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-092.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-093.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 93",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-093.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-093.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-094.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 94",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-094.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-094.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-095.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 95",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-095.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-095.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-096.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 96",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-096.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-096.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-097.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 97",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-097.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-097.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-098.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 98",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-098.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-098.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-099.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 99",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-099.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-099.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-100.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 100",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-100.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-100.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-101.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 101",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-101.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-101.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-102.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 102",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-102.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-102.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-103.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 103",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-103.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-103.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-104.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 104",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-104.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-104.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-105.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 105",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-105.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-105.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-106.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 106",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-106.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-106.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-107.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 107",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-107.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-107.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-108.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 108",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-108.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-108.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-109.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 109",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-109.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-109.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-110.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 110",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-110.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-110.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-111.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 111",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-111.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-111.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-112.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 112",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-112.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-112.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-113.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 113",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-113.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-113.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-114.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 114",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-114.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-114.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-115.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 115",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-115.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-115.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-116.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 116",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-116.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-116.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-117.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 117",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-117.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-117.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-118.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 118",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-118.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-118.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-119.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 119",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-119.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-119.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-120.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 120",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-120.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-120.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-121.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 121",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-121.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-121.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-122.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 122",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-122.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-122.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-123.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 123",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-123.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-123.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-124.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 124",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-124.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-124.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-125.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 125",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-125.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-125.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-126.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 126",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-126.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-126.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-127.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 127",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-127.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-127.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-128.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 128",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-128.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-128.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-129.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 129",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-129.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-129.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-130.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 130",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-130.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-130.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-131.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 131",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-131.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-131.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-132.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 132",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-132.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-132.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-133.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 133",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-133.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-133.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-134.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 134",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-134.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-134.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-135.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 135",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-135.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-135.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-136.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 136",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-136.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-136.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-137.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 137",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-137.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-137.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-138.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 138",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-138.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-138.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-139.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 139",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-139.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-139.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-140.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 140",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-140.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-140.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-141.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 141",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-141.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-141.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-142.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 142",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-142.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-142.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-143.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 143",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-143.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-143.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-144.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 144",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-144.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-144.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-145.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 145",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-145.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-145.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-146.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 146",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-146.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-146.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-147.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 147",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-147.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-147.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-148.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 148",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-148.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-148.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-149.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 149",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-149.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-149.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-150.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 150",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-150.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-150.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-151.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 151",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-151.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-151.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-152.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 152",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-152.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-152.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-153.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 153",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-153.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-153.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-154.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 154",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-154.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-154.jpg"
+        },
+        {
+          "image": "assets/san-miguel-2026/fermat-san-miguel-2026-155.webp",
+          "caption": "Premiación Fermat · San Miguel 2026 · Fotografía 155",
+          "download": "assets/san-miguel-2026/fermat-san-miguel-2026-155.jpg",
+          "downloadFilename": "Fermat-San-Miguel-2026-155.jpg"
+        }
+      ],
+      "archive": {
+        "file": "assets/san-miguel-2026/Fermat-San-Miguel-2026-fotografias.zip",
+        "bytes": 40859835,
+        "filename": "Fermat-San-Miguel-2026-fotografias.zip"
+      }
+    },
     {
       "id": "2026-huancapi",
       "eventId": "2026-huancapi",
@@ -8139,6 +9086,936 @@
       "height": 1600,
       "thumb": "assets/huancapi-2026/fermat-huancapi-2026-53-480.webp",
       "srcset": "assets/huancapi-2026/fermat-huancapi-2026-53-480.webp 360w, assets/huancapi-2026/fermat-huancapi-2026-53.webp 1200w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-001.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-001-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-001-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-001.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-002.webp": {
+      "width": 1205,
+      "height": 1600,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-002-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-002-480.webp 362w, assets/san-miguel-2026/fermat-san-miguel-2026-002.webp 1205w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-003.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-003-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-003-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-003.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-004.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-004-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-004-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-004.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-005.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-005-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-005-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-005.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-006.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-006-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-006-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-006.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-007.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-007-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-007-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-007.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-008.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-008-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-008-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-008.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-009.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-009-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-009-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-009.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-010.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-010-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-010-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-010.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-011.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-011-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-011-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-011.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-012.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-012-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-012-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-012.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-013.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-013-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-013-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-013.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-014.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-014-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-014-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-014.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-015.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-015-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-015-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-015.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-016.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-016-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-016-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-016.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-017.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-017-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-017-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-017.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-018.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-018-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-018-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-018.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-019.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-019-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-019-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-019.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-020.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-020-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-020-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-020.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-021.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-021-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-021-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-021.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-022.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-022-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-022-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-022.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-023.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-023-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-023-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-023.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-024.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-024-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-024-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-024.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-025.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-025-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-025-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-025.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-026.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-026-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-026-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-026.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-027.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-027-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-027-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-027.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-028.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-028-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-028-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-028.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-029.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-029-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-029-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-029.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-030.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-030-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-030-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-030.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-031.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-031-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-031-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-031.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-032.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-032-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-032-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-032.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-033.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-033-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-033-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-033.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-034.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-034-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-034-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-034.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-035.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-035-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-035-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-035.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-036.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-036-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-036-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-036.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-037.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-037-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-037-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-037.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-038.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-038-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-038-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-038.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-039.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-039-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-039-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-039.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-040.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-040-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-040-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-040.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-041.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-041-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-041-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-041.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-042.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-042-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-042-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-042.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-043.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-043-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-043-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-043.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-044.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-044-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-044-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-044.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-045.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-045-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-045-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-045.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-046.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-046-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-046-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-046.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-047.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-047-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-047-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-047.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-048.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-048-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-048-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-048.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-049.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-049-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-049-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-049.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-050.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-050-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-050-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-050.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-051.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-051-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-051-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-051.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-052.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-052-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-052-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-052.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-053.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-053-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-053-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-053.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-054.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-054-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-054-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-054.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-055.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-055-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-055-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-055.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-056.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-056-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-056-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-056.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-057.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-057-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-057-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-057.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-058.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-058-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-058-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-058.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-059.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-059-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-059-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-059.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-060.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-060-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-060-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-060.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-061.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-061-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-061-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-061.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-062.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-062-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-062-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-062.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-063.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-063-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-063-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-063.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-064.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-064-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-064-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-064.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-065.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-065-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-065-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-065.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-066.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-066-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-066-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-066.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-067.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-067-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-067-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-067.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-068.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-068-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-068-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-068.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-069.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-069-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-069-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-069.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-070.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-070-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-070-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-070.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-071.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-071-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-071-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-071.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-072.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-072-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-072-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-072.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-073.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-073-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-073-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-073.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-074.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-074-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-074-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-074.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-075.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-075-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-075-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-075.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-076.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-076-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-076-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-076.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-077.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-077-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-077-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-077.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-078.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-078-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-078-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-078.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-079.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-079-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-079-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-079.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-080.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-080-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-080-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-080.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-081.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-081-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-081-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-081.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-082.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-082-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-082-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-082.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-083.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-083-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-083-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-083.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-084.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-084-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-084-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-084.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-085.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-085-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-085-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-085.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-086.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-086-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-086-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-086.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-087.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-087-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-087-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-087.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-088.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-088-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-088-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-088.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-089.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-089-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-089-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-089.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-090.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-090-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-090-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-090.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-091.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-091-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-091-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-091.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-092.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-092-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-092-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-092.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-093.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-093-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-093-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-093.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-094.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-094-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-094-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-094.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-095.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-095-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-095-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-095.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-096.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-096-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-096-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-096.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-097.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-097-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-097-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-097.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-098.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-098-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-098-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-098.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-099.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-099-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-099-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-099.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-100.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-100-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-100-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-100.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-101.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-101-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-101-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-101.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-102.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-102-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-102-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-102.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-103.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-103-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-103-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-103.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-104.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-104-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-104-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-104.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-105.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-105-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-105-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-105.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-106.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-106-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-106-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-106.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-107.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-107-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-107-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-107.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-108.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-108-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-108-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-108.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-109.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-109-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-109-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-109.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-110.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-110-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-110-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-110.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-111.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-111-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-111-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-111.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-112.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-112-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-112-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-112.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-113.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-113-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-113-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-113.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-114.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-114-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-114-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-114.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-115.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-115-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-115-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-115.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-116.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-116-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-116-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-116.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-117.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-117-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-117-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-117.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-118.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-118-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-118-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-118.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-119.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-119-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-119-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-119.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-120.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-120-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-120-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-120.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-121.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-121-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-121-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-121.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-122.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-122-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-122-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-122.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-123.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-123-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-123-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-123.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-124.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-124-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-124-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-124.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-125.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-125-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-125-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-125.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-126.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-126-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-126-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-126.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-127.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-127-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-127-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-127.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-128.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-128-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-128-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-128.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-129.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-129-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-129-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-129.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-130.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-130-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-130-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-130.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-131.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-131-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-131-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-131.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-132.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-132-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-132-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-132.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-133.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-133-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-133-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-133.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-134.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-134-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-134-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-134.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-135.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-135-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-135-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-135.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-136.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-136-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-136-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-136.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-137.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-137-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-137-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-137.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-138.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-138-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-138-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-138.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-139.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-139-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-139-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-139.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-140.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-140-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-140-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-140.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-141.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-141-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-141-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-141.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-142.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-142-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-142-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-142.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-143.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-143-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-143-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-143.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-144.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-144-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-144-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-144.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-145.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-145-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-145-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-145.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-146.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-146-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-146-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-146.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-147.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-147-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-147-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-147.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-148.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-148-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-148-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-148.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-149.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-149-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-149-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-149.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-150.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-150-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-150-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-150.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-151.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-151-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-151-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-151.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-152.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-152-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-152-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-152.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-153.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-153-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-153-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-153.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-154.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-154-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-154-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-154.webp 1600w"
+    },
+    "assets/san-miguel-2026/fermat-san-miguel-2026-155.webp": {
+      "width": 1600,
+      "height": 1205,
+      "thumb": "assets/san-miguel-2026/fermat-san-miguel-2026-155-480.webp",
+      "srcset": "assets/san-miguel-2026/fermat-san-miguel-2026-155-480.webp 480w, assets/san-miguel-2026/fermat-san-miguel-2026-155.webp 1600w"
     }
   },
   "social": [

@@ -201,6 +201,7 @@ dialog { background: var(--paper); border-color: var(--edge); }
 .photo-viewer-heading .eyebrow { color: #a4e6c7; font-size: 9px; margin-bottom: 5px; }
 .photo-viewer-heading h2 { font-size: 30px; margin: 0; }
 .photo-viewer-heading>p { color: #b5c9d4; font-size: 11px; margin-top: 4px; }
+.photo-viewer-heading>.photo-thanks { max-width: 62ch; color: #d6e6ee; font-size: 13px; line-height: 1.5; }
 .photo-stage { position: relative; display: grid; place-items: center; margin-top: 16px; background: #061019; border-radius: 17px; min-height: 220px; overflow: hidden; }
 .photo-selected { height: min(57svh,680px); width: 100%; object-fit: contain; content-visibility: visible; touch-action: pan-y pinch-zoom; }
 .photo-prev,.photo-next { position: absolute; top: calc(50% - 24px); z-index: 2; width: 46px; height: 46px; border: 1px solid #ffffff70; border-radius: 50%; background: #132d45c7; color: white; font: 32px/1 sans-serif; }
