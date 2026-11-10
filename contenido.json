@@ -418,9 +418,24 @@
       "poster": "assets/social/san-miguel-2026-1600.webp",
       "documents": [
         {
+          "kind": "Bases",
+          "name": "Bases del concurso · San Miguel 2026",
+          "file": "assets/san-miguel-2026/bases-fermat-san-miguel-2026.pdf"
+        },
+        {
           "kind": "Temario",
-          "name": "TEMARIO FERMAT SAN MIGUEL 2026",
+          "name": "Temario del concurso · San Miguel 2026",
           "file": "assets/5b2ff2d22952c5ee.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Matemática · San Miguel 2026",
+          "file": "assets/san-miguel-2026/resultados-matematica-san-miguel-2026.pdf"
+        },
+        {
+          "kind": "Resultados",
+          "name": "Comprensión Lectora · San Miguel 2026",
+          "file": "assets/san-miguel-2026/resultados-comprension-lectora-san-miguel-2026.pdf"
         }
       ],
       "posterAlternatives": [
